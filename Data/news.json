@@ -1,0 +1,39 @@
+{
+    "status": "ok",
+    "source": "techcrunch",
+    "sortBy": "top",
+    "articles": [
+                 {
+                 "author": "Josh Constine",
+                 "title": "Facebook teen-in-residence defects to Google and launches Lies",
+                 "description": "At age 17, Michael Sayman was Facebook's youngest employee ever. Having already launched 5 apps, he wowed Mark Zuckerberg, earned a demo spot on stage at..",
+                 "url": "https://techcrunch.com/2017/11/15/lies-app/",
+                 "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/11/lies.png",
+                 "publishedAt": "2017-11-15T19:44:26Z"
+                 },
+                 {
+                 "author": "Frederic Lardinois",
+                 "title": "Hands-on with Microsoft’s high-end Surface Book 2",
+                 "description": "Microsoft's Surface Book 2 is the most powerful mobile Surface device yet. It easily blows away the Surface Pro, Surface Laptop and, of course, the old..",
+                 "url": "https://techcrunch.com/2017/11/16/hands-on-with-microsofts-high-end-surface-book-2/",
+                 "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/10/dscf2854.jpg",
+                 "publishedAt": "2017-11-16T14:00:41Z"
+                 },
+                 {
+                 "author": "Jon Russell",
+                 "title": "China’s Baidu just announced the strangest smart speakers",
+                 "description": "Chinese internet Baidu is widely credited for being one of the first to dive deep into artificial intelligence, hiring Coursera co-founder Andrew Ng (who has..",
+                 "url": "https://techcrunch.com/2017/11/16/baidu-just-announced-the-strangest-smart-speakers/",
+                 "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/11/raven-h-1.png",
+                 "publishedAt": "2017-11-16T09:21:00Z"
+                 },
+                 {
+                 "author": "Darrell Etherington",
+                 "title": "What to expect from Tesla’s big electric truck reveal",
+                 "description": "Tesla is set to take the lid off its electric truck tomorrow for the first time, after months of teasing the big rig. CEO Elon Musk is still doing some..",
+                 "url": "https://techcrunch.com/2017/11/15/what-to-expect-from-teslas-big-electric-truck-reveal/",
+                 "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/11/tesla-truck-gif.gif",
+                 "publishedAt": "2017-11-16T00:04:25Z"
+                 }
+                 ]
+}

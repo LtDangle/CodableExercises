@@ -14,6 +14,19 @@
 		8157A5FE1FBE1E720080A9BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8157A5FC1FBE1E720080A9BB /* LaunchScreen.storyboard */; };
 		8157A6091FBE1E720080A9BB /* CodableExercisesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A6081FBE1E720080A9BB /* CodableExercisesTests.swift */; };
 		8157A6141FBE1E720080A9BB /* CodableExercisesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A6131FBE1E720080A9BB /* CodableExercisesUITests.swift */; };
+		8157A6221FBE1F3D0080A9BB /* songs.json in Resources */ = {isa = PBXBuildFile; fileRef = 8157A6211FBE1F3D0080A9BB /* songs.json */; };
+		8157A6261FBE202C0080A9BB /* cities.json in Resources */ = {isa = PBXBuildFile; fileRef = 8157A6251FBE202C0080A9BB /* cities.json */; };
+		8157A6281FBE221F0080A9BB /* scheme.json in Resources */ = {isa = PBXBuildFile; fileRef = 8157A6271FBE221F0080A9BB /* scheme.json */; };
+		8157A62A1FBE23310080A9BB /* news.json in Resources */ = {isa = PBXBuildFile; fileRef = 8157A6291FBE23310080A9BB /* news.json */; };
+		8157A62C1FBE23680080A9BB /* pokemoncards.json in Resources */ = {isa = PBXBuildFile; fileRef = 8157A62B1FBE23680080A9BB /* pokemoncards.json */; };
+		8157A62E1FBE25760080A9BB /* girlshows.json in Resources */ = {isa = PBXBuildFile; fileRef = 8157A62D1FBE25760080A9BB /* girlshows.json */; };
+		8157A6321FBE26E90080A9BB /* songsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A6311FBE26E90080A9BB /* songsModel.swift */; };
+		8157A6341FBE76910080A9BB /* citiesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A6331FBE76910080A9BB /* citiesModel.swift */; };
+		8157A6381FC0802F0080A9BB /* schemeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A6371FC0802F0080A9BB /* schemeModel.swift */; };
+		8157A63A1FC090F30080A9BB /* newsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A6391FC090F30080A9BB /* newsModel.swift */; };
+		8157A63C1FC094A40080A9BB /* pokemoncardsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A63B1FC094A40080A9BB /* pokemoncardsModel.swift */; };
+		8157A63E1FC09CB10080A9BB /* girlshowsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A63D1FC09CB10080A9BB /* girlshowsModel.swift */; };
+		8157A6401FC0DCE40080A9BB /* usableInfoProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8157A63F1FC0DCE40080A9BB /* usableInfoProtocol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +60,19 @@
 		8157A60F1FBE1E720080A9BB /* CodableExercisesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodableExercisesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8157A6131FBE1E720080A9BB /* CodableExercisesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableExercisesUITests.swift; sourceTree = "<group>"; };
 		8157A6151FBE1E720080A9BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8157A6211FBE1F3D0080A9BB /* songs.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = songs.json; sourceTree = "<group>"; };
+		8157A6251FBE202C0080A9BB /* cities.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = cities.json; sourceTree = "<group>"; };
+		8157A6271FBE221F0080A9BB /* scheme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = scheme.json; sourceTree = "<group>"; };
+		8157A6291FBE23310080A9BB /* news.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = news.json; sourceTree = "<group>"; };
+		8157A62B1FBE23680080A9BB /* pokemoncards.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pokemoncards.json; sourceTree = "<group>"; };
+		8157A62D1FBE25760080A9BB /* girlshows.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = girlshows.json; sourceTree = "<group>"; };
+		8157A6311FBE26E90080A9BB /* songsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = songsModel.swift; sourceTree = "<group>"; };
+		8157A6331FBE76910080A9BB /* citiesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = citiesModel.swift; sourceTree = "<group>"; };
+		8157A6371FC0802F0080A9BB /* schemeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = schemeModel.swift; sourceTree = "<group>"; };
+		8157A6391FC090F30080A9BB /* newsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newsModel.swift; sourceTree = "<group>"; };
+		8157A63B1FC094A40080A9BB /* pokemoncardsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pokemoncardsModel.swift; sourceTree = "<group>"; };
+		8157A63D1FC09CB10080A9BB /* girlshowsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = girlshowsModel.swift; sourceTree = "<group>"; };
+		8157A63F1FC0DCE40080A9BB /* usableInfoProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = usableInfoProtocol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +103,8 @@
 		8157A5E71FBE1E720080A9BB = {
 			isa = PBXGroup;
 			children = (
+				8157A6301FBE26480080A9BB /* Models */,
+				8157A62F1FBE25830080A9BB /* Data */,
 				8157A5F21FBE1E720080A9BB /* CodableExercises */,
 				8157A6071FBE1E720080A9BB /* CodableExercisesTests */,
 				8157A6121FBE1E720080A9BB /* CodableExercisesUITests */,
@@ -123,6 +151,33 @@
 				8157A6151FBE1E720080A9BB /* Info.plist */,
 			);
 			path = CodableExercisesUITests;
+			sourceTree = "<group>";
+		};
+		8157A62F1FBE25830080A9BB /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				8157A6211FBE1F3D0080A9BB /* songs.json */,
+				8157A6251FBE202C0080A9BB /* cities.json */,
+				8157A6271FBE221F0080A9BB /* scheme.json */,
+				8157A6291FBE23310080A9BB /* news.json */,
+				8157A62B1FBE23680080A9BB /* pokemoncards.json */,
+				8157A62D1FBE25760080A9BB /* girlshows.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		8157A6301FBE26480080A9BB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8157A63F1FC0DCE40080A9BB /* usableInfoProtocol.swift */,
+				8157A6311FBE26E90080A9BB /* songsModel.swift */,
+				8157A6331FBE76910080A9BB /* citiesModel.swift */,
+				8157A6371FC0802F0080A9BB /* schemeModel.swift */,
+				8157A6391FC090F30080A9BB /* newsModel.swift */,
+				8157A63B1FC094A40080A9BB /* pokemoncardsModel.swift */,
+				8157A63D1FC09CB10080A9BB /* girlshowsModel.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +287,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8157A6221FBE1F3D0080A9BB /* songs.json in Resources */,
+				8157A6261FBE202C0080A9BB /* cities.json in Resources */,
+				8157A62A1FBE23310080A9BB /* news.json in Resources */,
 				8157A5FE1FBE1E720080A9BB /* LaunchScreen.storyboard in Resources */,
+				8157A62E1FBE25760080A9BB /* girlshows.json in Resources */,
 				8157A5FB1FBE1E720080A9BB /* Assets.xcassets in Resources */,
+				8157A6281FBE221F0080A9BB /* scheme.json in Resources */,
 				8157A5F91FBE1E720080A9BB /* Main.storyboard in Resources */,
+				8157A62C1FBE23680080A9BB /* pokemoncards.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,7 +320,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8157A6321FBE26E90080A9BB /* songsModel.swift in Sources */,
+				8157A6381FC0802F0080A9BB /* schemeModel.swift in Sources */,
+				8157A63E1FC09CB10080A9BB /* girlshowsModel.swift in Sources */,
 				8157A5F61FBE1E720080A9BB /* ViewController.swift in Sources */,
+				8157A6401FC0DCE40080A9BB /* usableInfoProtocol.swift in Sources */,
+				8157A63C1FC094A40080A9BB /* pokemoncardsModel.swift in Sources */,
+				8157A6341FBE76910080A9BB /* citiesModel.swift in Sources */,
+				8157A63A1FC090F30080A9BB /* newsModel.swift in Sources */,
 				8157A5F41FBE1E720080A9BB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

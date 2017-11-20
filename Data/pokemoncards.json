@@ -1,0 +1,4263 @@
+{
+    "cards": [
+              {
+              "id": "xy5-15",
+              "name": "Shroomish",
+              "nationalPokedexNumber": 285,
+              "imageUrl": "https://images.pokemontcg.io/xy5/15.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/15_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "15",
+              "artist": "Mizue",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Spore",
+                          "text": "Your opponent's Active Pokémon is now Asleep.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy5-16",
+              "name": "Breloom",
+              "nationalPokedexNumber": 286,
+              "imageUrl": "https://images.pokemontcg.io/xy5/16.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/16_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Shroomish",
+              "hp": "100",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "16",
+              "artist": "Suwama Chiaki",
+              "rarity": "Rare",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fighting",
+                                   "Colorless"
+                                   ],
+                          "name": "Dynamic Punch",
+                          "text": "Flip a coin. If heads, this attack does 20 more damage and your opponent's Active Pokémon is now Confused.",
+                          "damage": "40+",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Fighting",
+                                   "Fighting",
+                                   "Colorless"
+                                   ],
+                          "name": "Mega Kick",
+                          "text": "",
+                          "damage": "80",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "pop2-2",
+              "name": "Pidgeot",
+              "nationalPokedexNumber": 18,
+              "imageUrl": "https://images.pokemontcg.io/pop2/2.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/pop2/2_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 2",
+              "evolvesFrom": "Pidgeotto",
+              "ability": {
+              "name": "Beating Wings",
+              "text": "Once during your turn (before your attack), If Pidgeot is your Active Pokémon, you may shuffle 1 of your Benched Pokémon and all cards attached to it in your deck. This power can't be used if Pidgeot is affected by a Special Condition.",
+              "type": "Poké-Power"
+              },
+              "hp": "80",
+              "number": "2",
+              "artist": "Ken Sugimori",
+              "rarity": "Rare",
+              "series": "POP",
+              "set": "POP Series 2",
+              "setCode": "pop2",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Sharp Beak",
+                          "text": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage.",
+                          "damage": "20+",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Fighting",
+                              "value": "-30"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Lightning",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-9",
+              "name": "Braixen",
+              "nationalPokedexNumber": 654,
+              "imageUrl": "https://images.pokemontcg.io/xy0/9.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/9_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Fennekin",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "9",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Colorless"
+                                   ],
+                          "name": "Firebreathing",
+                          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+                          "damage": "20+",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Flame Tail",
+                          "text": "",
+                          "damage": "60",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-11",
+              "name": "Panpour",
+              "nationalPokedexNumber": 515,
+              "imageUrl": "https://images.pokemontcg.io/xy0/11.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/11_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "11",
+              "artist": "Shin Nagasawa",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Collect",
+                          "text": "Draw a card.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Fury Swipes",
+                          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+                          "damage": "10×",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-9",
+              "name": "Combee",
+              "nationalPokedexNumber": 415,
+              "imageUrl": "https://images.pokemontcg.io/xy7/9.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/9_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "40",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "9",
+              "artist": "Sumiyoshi Kizuki",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Bug Bite",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "gym1-131",
+              "name": "Psychic Energy",
+              "imageUrl": "https://images.pokemontcg.io/gym1/131.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/gym1/131_hires.png",
+              "supertype": "Energy",
+              "subtype": "Basic",
+              "number": "131",
+              "artist": "Keiji Kinebuchi",
+              "rarity": "Common",
+              "series": "Gym",
+              "set": "Gym Heroes",
+              "setCode": "gym1"
+              },
+              {
+              "id": "xy7-16",
+              "name": "Larvesta",
+              "nationalPokedexNumber": 636,
+              "imageUrl": "https://images.pokemontcg.io/xy7/16.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/16_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "16",
+              "artist": "Satoshi Shirai",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Colorless"
+                                   ],
+                          "name": "Combustion",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base1-31",
+              "name": "Jynx",
+              "nationalPokedexNumber": 124,
+              "imageUrl": "https://images.pokemontcg.io/base1/31.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/31_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "31",
+              "artist": "Ken Sugimori",
+              "rarity": "Uncommon",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Psychic"
+                                   ],
+                          "name": "Doubleslap",
+                          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+                          "damage": "10×",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Psychic",
+                                   "Psychic"
+                                   ],
+                          "name": "Meditate",
+                          "text": "Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+                          "damage": "20+",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-12",
+              "name": "Froakie",
+              "nationalPokedexNumber": 656,
+              "imageUrl": "https://images.pokemontcg.io/xy0/12.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/12_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "12",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water"
+                                   ],
+                          "name": "Pound",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Water Drip",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-13",
+              "name": "Frogadier",
+              "nationalPokedexNumber": 657,
+              "imageUrl": "https://images.pokemontcg.io/xy0/13.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/13_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Froakie",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "13",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water"
+                                   ],
+                          "name": "Water Drip",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Aqua Wave",
+                          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+                          "damage": "40+",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-16",
+              "name": "Ponyta",
+              "nationalPokedexNumber": 77,
+              "imageUrl": "https://images.pokemontcg.io/xy11/16.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/16_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "16",
+              "artist": "Sumiyoshi Kizuki",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Returning Flames",
+                          "text": "Put 2 Fire Energy cards from your discard pile into your hand.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fire"
+                                   ],
+                          "name": "Live Coal",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-14",
+              "name": "Greninja",
+              "nationalPokedexNumber": 658,
+              "imageUrl": "https://images.pokemontcg.io/xy0/14.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/14_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 2",
+              "evolvesFrom": "Frogadier",
+              "hp": "140",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "14",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water"
+                                   ],
+                          "name": "Mat Block",
+                          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+                          "damage": "40",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Aqua Edge",
+                          "text": "",
+                          "damage": "80",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-17",
+              "name": "Rapidash",
+              "nationalPokedexNumber": 78,
+              "imageUrl": "https://images.pokemontcg.io/xy11/17.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/17_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Ponyta",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "17",
+              "artist": "Yukiko Baba",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Rear Kick",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Fire"
+                                   ],
+                          "name": "Fire Blast",
+                          "text": "Discard a Fire Energy attached to this Pokémon.",
+                          "damage": "70",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-18",
+              "name": "Chimchar",
+              "nationalPokedexNumber": 390,
+              "imageUrl": "https://images.pokemontcg.io/xy11/18.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/18_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "18",
+              "artist": "Shibuzoh.",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Scratch",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Colorless"
+                                   ],
+                          "name": "Ember",
+                          "text": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon.",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-79",
+              "name": "Paint Roller",
+              "imageUrl": "https://images.pokemontcg.io/xy7/79.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/79_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Item",
+              "number": "79",
+              "artist": "Toyste Beach",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "Discard any Stadium card in play. Then, draw a card."
+                       ]
+              },
+              {
+              "id": "xy5-17",
+              "name": "Volbeat",
+              "nationalPokedexNumber": 313,
+              "imageUrl": "https://images.pokemontcg.io/xy5/17.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/17_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "17",
+              "artist": "Tomokazu Komiya",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Acrobatics",
+                          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+                          "damage": "10+",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Pester",
+                          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 30 more damage.",
+                          "damage": "30+",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-15",
+              "name": "Clauncher",
+              "nationalPokedexNumber": 692,
+              "imageUrl": "https://images.pokemontcg.io/xy0/15.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/15_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "15",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Water Gun",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-17",
+              "name": "Mightyena",
+              "nationalPokedexNumber": 262,
+              "imageUrl": "https://images.pokemontcg.io/xy0/17.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/17_hires.png",
+              "types": [
+                        "Darkness"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Poochyena",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "17",
+              "artist": "Mitsuhiro Arita",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Darkness",
+                                   "Colorless"
+                                   ],
+                          "name": "Hard Bite",
+                          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+                          "damage": "40+",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Psychic",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-18",
+              "name": "Inkay",
+              "nationalPokedexNumber": 686,
+              "imageUrl": "https://images.pokemontcg.io/xy0/18.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/18_hires.png",
+              "types": [
+                        "Darkness"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "18",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Darkness"
+                                   ],
+                          "name": "Peck",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Psychic",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-19",
+              "name": "Pawniard",
+              "nationalPokedexNumber": 624,
+              "imageUrl": "https://images.pokemontcg.io/xy0/19.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/19_hires.png",
+              "types": [
+                        "Metal"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "19",
+              "artist": "Kouki Saitou",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Metal"
+                                   ],
+                          "name": "Pierce",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Cut",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Psychic",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-20",
+              "name": "Bisharp",
+              "nationalPokedexNumber": 625,
+              "imageUrl": "https://images.pokemontcg.io/xy0/20.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/20_hires.png",
+              "types": [
+                        "Metal"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Pawniard",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "20",
+              "artist": "Kagemaru Himeno",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Metal"
+                                   ],
+                          "name": "Wicked Jab",
+                          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                          "damage": "20",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Metal",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Metal Claw",
+                          "text": "",
+                          "damage": "70",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Psychic",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-23",
+              "name": "Relicanth",
+              "nationalPokedexNumber": 369,
+              "imageUrl": "https://images.pokemontcg.io/xy7/23.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/23_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "23",
+              "artist": "Kagemaru Himeno",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Deep Sea Search",
+                          "text": "Search your deck for up to 2 Pokémon Tool cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Take Down",
+                          "text": "This Pokémon does 10 damage to itself.",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-32",
+              "name": "Baltoy",
+              "nationalPokedexNumber": 343,
+              "imageUrl": "https://images.pokemontcg.io/xy7/32.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/32_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "32",
+              "artist": "Ayaka Yoshida",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon."
+                       ],
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Psychic"
+                                   ],
+                          "name": "Future Spin",
+                          "text": "Look at the top 3 cards of either player's deck and put them back on top of that player's deck in any order.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy5-19",
+              "name": "Trevenant-EX",
+              "nationalPokedexNumber": 709,
+              "imageUrl": "https://images.pokemontcg.io/xy5/19.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/19_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "EX",
+              "hp": "180",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "19",
+              "artist": "Eske Yoshinob",
+              "rarity": "Rare Holo EX",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "text": [
+                       "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+                       ],
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Dark Forest",
+                          "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+                          "damage": "20",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Wood Blast",
+                          "text": "This attack does 20 more damage for each Grass Energy attached to this Pokémon.",
+                          "damage": "50+",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-30",
+              "name": "Unown",
+              "nationalPokedexNumber": 201,
+              "imageUrl": "https://images.pokemontcg.io/xy7/30.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/30_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "ability": {
+              "name": "Farewell Letter",
+              "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard this Pokémon and all cards attached to it (this does not count as a Knock Out). If you do, draw a card.",
+              "type": "Ability"
+              },
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "30",
+              "artist": "Akira Komayama",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Hidden Power",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "pop2-16",
+              "name": "Pikachu",
+              "nationalPokedexNumber": 25,
+              "imageUrl": "https://images.pokemontcg.io/pop2/16.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/pop2/16_hires.png",
+              "types": [
+                        "Lightning"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "40",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "16",
+              "artist": "Yuka Morii",
+              "rarity": "Common",
+              "series": "POP",
+              "set": "POP Series 2",
+              "setCode": "pop2",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Gnaw",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Lightning"
+                                   ],
+                          "name": "Thunder Jolt",
+                          "text": "Flip a coin. If tails, Pikachu does 10 damage to self.",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-21",
+              "name": "Honedge",
+              "nationalPokedexNumber": 679,
+              "imageUrl": "https://images.pokemontcg.io/xy0/21.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/21_hires.png",
+              "types": [
+                        "Metal"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "21",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Metal",
+                                   "Colorless"
+                                   ],
+                          "name": "Continuous Slash",
+                          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+                          "damage": "30×",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Psychic",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-22",
+              "name": "Snubbull",
+              "nationalPokedexNumber": 209,
+              "imageUrl": "https://images.pokemontcg.io/xy0/22.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/22_hires.png",
+              "types": [
+                        "Fairy"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "22",
+              "artist": "Naoki Saito",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fairy",
+                                   "Colorless"
+                                   ],
+                          "name": "Headbutt",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Darkness",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Metal",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-25",
+              "name": "Volcanion",
+              "nationalPokedexNumber": 721,
+              "imageUrl": "https://images.pokemontcg.io/xy11/25.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/25_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "130",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "25",
+              "artist": "5ban Graphics",
+              "rarity": "Rare",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire"
+                                   ],
+                          "name": "Power Heater",
+                          "text": "Choose 2 of your Benched Pokémon. Attach a Fire Energy card from your discard pile to each of those Pokémon.",
+                          "damage": "20",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Fire",
+                                   "Fire"
+                                   ],
+                          "name": "Steam Artillery",
+                          "text": "",
+                          "damage": "100",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-31",
+              "name": "Baltoy",
+              "nationalPokedexNumber": 343,
+              "imageUrl": "https://images.pokemontcg.io/xy7/31.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/31_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "31",
+              "artist": "Kouki Saitou",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Psychic"
+                                   ],
+                          "name": "Slap",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Psychic",
+                                   "Colorless"
+                                   ],
+                          "name": "Spinning Attack",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-77",
+              "name": "Lucky Helmet",
+              "imageUrl": "https://images.pokemontcg.io/xy7/77.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/77_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Pokémon Tool",
+              "number": "77",
+              "artist": "Toyste Beach",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "Whenever the Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if that Pokémon is Knocked Out), draw 2 cards."
+                       ]
+              },
+              {
+              "id": "bw1-105",
+              "name": "Grass Energy",
+              "imageUrl": "https://images.pokemontcg.io/bw1/105.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/bw1/105_hires.png",
+              "supertype": "Energy",
+              "subtype": "Basic",
+              "number": "105",
+              "artist": "",
+              "rarity": "Common",
+              "series": "Black & White",
+              "set": "Black & White",
+              "setCode": "bw1"
+              },
+              {
+              "id": "xy5-21",
+              "name": "Ninetales",
+              "nationalPokedexNumber": 38,
+              "imageUrl": "https://images.pokemontcg.io/xy5/21.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/21_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Vulpix",
+              "ability": {
+              "name": "Barrier Shrine",
+              "text": "Each player can't play any Stadium cards from his or her hand.",
+              "type": "Ability"
+              },
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "21",
+              "artist": "Kanako Eo",
+              "rarity": "Rare",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Fire",
+                                   "Colorless"
+                                   ],
+                          "name": "Flickering Flames",
+                          "text": "Your opponent's Active Pokémon is now Asleep.",
+                          "damage": "70",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-99",
+              "name": "Captivating Poké Puff",
+              "imageUrl": "https://images.pokemontcg.io/xy11/99.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/99_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Item",
+              "number": "99",
+              "artist": "Toyste Beach",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "text": [
+                       "Your opponent reveals his or her hand. Put any number of Basic Pokémon you find there onto your opponent's Bench."
+                       ]
+              },
+              {
+              "id": "base1-34",
+              "name": "Machoke",
+              "nationalPokedexNumber": 67,
+              "imageUrl": "https://images.pokemontcg.io/base1/34.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/34_hires.png",
+              "types": [
+                        "Fighting"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Machop",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "34",
+              "artist": "Ken Sugimori",
+              "rarity": "Uncommon",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Fighting",
+                                   "Fighting"
+                                   ],
+                          "name": "Karate Chop",
+                          "text": "Does 50 damage minus 10 for each damage counter on Machoke.",
+                          "damage": "",
+                          "convertedEnergyCost": 3
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Fighting",
+                                   "Fighting"
+                                   ],
+                          "name": "Submission",
+                          "text": "Machoke does 20 damage to itself.",
+                          "damage": "60",
+                          "convertedEnergyCost": 4
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-27",
+              "name": "Mantine",
+              "nationalPokedexNumber": 226,
+              "imageUrl": "https://images.pokemontcg.io/xy11/27.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/27_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "100",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "27",
+              "artist": "DemizuPosuka",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water"
+                                   ],
+                          "name": "Healing Wave",
+                          "text": "Discard as many cards as you like from your hand. Heal 10 damage from this Pokémon for each card you discarded in this way.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Water",
+                                   "Water"
+                                   ],
+                          "name": "Dwindling Wave",
+                          "text": "This attack does 90 damage minus 10 damage for each damage counter on this Pokémon.",
+                          "damage": "90−",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Fighting",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Lightning",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-23",
+              "name": "Granbull",
+              "nationalPokedexNumber": 210,
+              "imageUrl": "https://images.pokemontcg.io/xy0/23.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/23_hires.png",
+              "types": [
+                        "Fairy"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Snubbull",
+              "hp": "100",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "23",
+              "artist": "Masakazu Fukuda",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fairy",
+                                   "Colorless"
+                                   ],
+                          "name": "Headbutt",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Fairy",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Double Stomp",
+                          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+                          "damage": "50+",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Darkness",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Metal",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-24",
+              "name": "Swirlix",
+              "nationalPokedexNumber": 684,
+              "imageUrl": "https://images.pokemontcg.io/xy0/24.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/24_hires.png",
+              "types": [
+                        "Fairy"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "24",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fairy"
+                                   ],
+                          "name": "Draining Kiss",
+                          "text": "Heal 10 damage from this Pokémon.",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Darkness",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Metal",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-25",
+              "name": "Farfetch'd",
+              "nationalPokedexNumber": 83,
+              "imageUrl": "https://images.pokemontcg.io/xy0/25.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/25_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "25",
+              "artist": "Kagemaru Himeno",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Slash",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Fighting",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Lightning",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-26",
+              "name": "Snorlax",
+              "nationalPokedexNumber": 143,
+              "imageUrl": "https://images.pokemontcg.io/xy0/26.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/26_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "120",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "26",
+              "artist": "Naoki Saito",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Rock Smash",
+                          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+                          "damage": "10+",
+                          "convertedEnergyCost": 3
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Strength",
+                          "text": "",
+                          "damage": "70",
+                          "convertedEnergyCost": 4
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy5-23",
+              "name": "Magcargo",
+              "nationalPokedexNumber": 219,
+              "imageUrl": "https://images.pokemontcg.io/xy5/23.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/23_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Slugma",
+              "hp": "120",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "23",
+              "artist": "Shigenori Negishi",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire"
+                                   ],
+                          "name": "Flame Burst",
+                          "text": "This attack does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                          "damage": "20",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Flamethrower",
+                          "text": "Discard an Energy attached to this Pokémon.",
+                          "damage": "90",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy5-25",
+              "name": "Torchic",
+              "nationalPokedexNumber": 255,
+              "imageUrl": "https://images.pokemontcg.io/xy5/25.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/25_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "25",
+              "artist": "sui",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire"
+                                   ],
+                          "name": "Ember",
+                          "text": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon.",
+                          "damage": "20",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-46",
+              "name": "Malamar",
+              "nationalPokedexNumber": 687,
+              "imageUrl": "https://images.pokemontcg.io/xy7/46.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/46_hires.png",
+              "types": [
+                        "Darkness"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Inkay",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "46",
+              "artist": "Masakazu Fukuda",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Entangling Control",
+                          "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon. The new Active Pokémon is now Confused.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Darkness"
+                                   ],
+                          "name": "Trash Tentacle",
+                          "text": "Put a card from your discard pile into your hand.",
+                          "damage": "30",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Psychic",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "sm4-1",
+              "name": "Weedle",
+              "nationalPokedexNumber": 13,
+              "imageUrl": "https://images.pokemontcg.io/sm4/1.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/sm4/1_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "50",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "1",
+              "artist": "Yukiko Baba",
+              "rarity": "",
+              "series": "Sun & Moon",
+              "set": "Crimson Invasion",
+              "setCode": "sm4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Poison Sting",
+                          "text": "Your opponent's Active Pokémon is now Poisoned.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-27",
+              "name": "Miltank",
+              "nationalPokedexNumber": 241,
+              "imageUrl": "https://images.pokemontcg.io/xy0/27.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/27_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "100",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "27",
+              "artist": "Akira Komayama",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Sitdown Splash",
+                          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+                          "damage": "50+",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-28",
+              "name": "Shellos",
+              "nationalPokedexNumber": 422,
+              "imageUrl": "https://images.pokemontcg.io/xy11/28.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/28_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "28",
+              "artist": "Sanosuke Sakuma",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water"
+                                   ],
+                          "name": "Rain Splash",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-47",
+              "name": "Beldum",
+              "nationalPokedexNumber": 374,
+              "imageUrl": "https://images.pokemontcg.io/xy7/47.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/47_hires.png",
+              "types": [
+                        "Metal"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "47",
+              "artist": "Yuka Morii",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Metal"
+                                   ],
+                          "name": "Ram",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Metal",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Spinning Attack",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Psychic",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-48",
+              "name": "Metang",
+              "nationalPokedexNumber": 375,
+              "imageUrl": "https://images.pokemontcg.io/xy7/48.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/48_hires.png",
+              "types": [
+                        "Metal"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Beldum",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "48",
+              "artist": "Shigenori Negishi",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Metal",
+                                   "Colorless"
+                                   ],
+                          "name": "Metal Claw",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Metal",
+                                   "Metal",
+                                   "Colorless"
+                                   ],
+                          "name": "Bullet Punch",
+                          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+                          "damage": "50+",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Psychic",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-55",
+              "name": "Cottonee",
+              "nationalPokedexNumber": 546,
+              "imageUrl": "https://images.pokemontcg.io/xy7/55.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/55_hires.png",
+              "types": [
+                        "Fairy"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "40",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "55",
+              "artist": "Kanako Eo",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fairy"
+                                   ],
+                          "name": "Cotton Bed",
+                          "text": "Your opponent's Active Pokémon is now Asleep.",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Darkness",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Metal",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-30",
+              "name": "Oshawott",
+              "nationalPokedexNumber": 501,
+              "imageUrl": "https://images.pokemontcg.io/xy11/30.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/30_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "30",
+              "artist": "sui",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Water Gun",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "neo1-21",
+              "name": "Donphan",
+              "nationalPokedexNumber": 232,
+              "imageUrl": "https://images.pokemontcg.io/neo1/21.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/neo1/21_hires.png",
+              "types": [
+                        "Fighting"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Phanpy",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "21",
+              "artist": "Ken Sugimori",
+              "rarity": "Rare",
+              "series": "Neo",
+              "set": "Neo Genesis",
+              "setCode": "neo1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fighting"
+                                   ],
+                          "name": "Flail",
+                          "text": "Does 10 damage times the number of damage counters on Donphan.",
+                          "damage": "10×",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fighting",
+                                   "Fighting",
+                                   "Fighting"
+                                   ],
+                          "name": "Rapid Spin",
+                          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)",
+                          "damage": "50",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Lightning",
+                              "value": "-30"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "sm4-2",
+              "name": "Kakuna",
+              "nationalPokedexNumber": 14,
+              "imageUrl": "https://images.pokemontcg.io/sm4/2.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/sm4/2_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Weedle",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "2",
+              "artist": "miki kudo",
+              "rarity": "",
+              "series": "Sun & Moon",
+              "set": "Crimson Invasion",
+              "setCode": "sm4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Multiply",
+                          "text": "Search your deck for up to 3 Kakuna and put them onto your Bench. Then, shuffle your deck.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "ecard1-141",
+              "name": "Energy Restore",
+              "imageUrl": "https://images.pokemontcg.io/ecard1/141.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/ecard1/141_hires.png",
+              "supertype": "Trainer",
+              "subtype": "",
+              "number": "141",
+              "artist": "Hideyuki Nakajima",
+              "rarity": "Uncommon",
+              "series": "E-Card",
+              "set": "Expedition Base Set",
+              "setCode": "ecard1",
+              "text": [
+                       "Flip 3 coins. For each heads, put a basic Energy card from your discard pile into your hand. If you don't have that many basic Energy cards in your discard pile, put all of them into your hand."
+                       ]
+              },
+              {
+              "id": "xy0-28",
+              "name": "Skitty",
+              "nationalPokedexNumber": 300,
+              "imageUrl": "https://images.pokemontcg.io/xy0/28.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/28_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "28",
+              "artist": "Shin Nagasawa",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Jump On",
+                          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+                          "damage": "20+",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-29",
+              "name": "Bidoof",
+              "nationalPokedexNumber": 399,
+              "imageUrl": "https://images.pokemontcg.io/xy0/29.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/29_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "29",
+              "artist": "Kouki Saitou",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Rollout",
+                          "text": "",
+                          "damage": "60",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-30",
+              "name": "Bunnelby",
+              "nationalPokedexNumber": 659,
+              "imageUrl": "https://images.pokemontcg.io/xy0/30.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/30_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "30",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Tackle",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy5-26",
+              "name": "Torchic",
+              "nationalPokedexNumber": 255,
+              "imageUrl": "https://images.pokemontcg.io/xy5/26.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/26_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "ancientTrait": {
+              "name": "Ω Barrage",
+              "text": "This Pokémon may attack twice a turn. (If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.)"
+              },
+              "hp": "50",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "26",
+              "artist": "5ban Graphics",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire"
+                                   ],
+                          "name": "Flare Bonus",
+                          "text": "Discard a Fire Energy card from your hand. If you do, draw 2 cards.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fire"
+                                   ],
+                          "name": "Claw",
+                          "text": "Flip a coin. If tails, this attack does nothing.",
+                          "damage": "20",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-32",
+              "name": "Furfrou",
+              "nationalPokedexNumber": 676,
+              "imageUrl": "https://images.pokemontcg.io/xy0/32.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/32_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "32",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Tight Jaw",
+                          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Sharp Fang",
+                          "text": "",
+                          "damage": "50",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base1-44",
+              "name": "Bulbasaur",
+              "nationalPokedexNumber": 1,
+              "imageUrl": "https://images.pokemontcg.io/base1/44.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/44_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "40",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "44",
+              "artist": "Mitsuhiro Arita",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass",
+                                   "Grass"
+                                   ],
+                          "name": "Leech Seed",
+                          "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur.",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base1-45",
+              "name": "Caterpie",
+              "nationalPokedexNumber": 10,
+              "imageUrl": "https://images.pokemontcg.io/base1/45.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/45_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "40",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "45",
+              "artist": "Ken Sugimori",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "String Shot",
+                          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base1-43",
+              "name": "Abra",
+              "nationalPokedexNumber": 63,
+              "imageUrl": "https://images.pokemontcg.io/base1/43.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/43_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "30",
+              "number": "43",
+              "artist": "Mitsuhiro Arita",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Psychic"
+                                   ],
+                          "name": "Psyshock",
+                          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-33",
+              "name": "Furfrou",
+              "nationalPokedexNumber": 676,
+              "imageUrl": "https://images.pokemontcg.io/xy0/33.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/33_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "33",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Tight Jaw",
+                          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Sharp Fang",
+                          "text": "",
+                          "damage": "50",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "ecard1-143",
+              "name": "Master Ball",
+              "imageUrl": "https://images.pokemontcg.io/ecard1/143.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/ecard1/143_hires.png",
+              "supertype": "Trainer",
+              "subtype": "",
+              "number": "143",
+              "artist": "Keiji Kinebuchi",
+              "rarity": "Uncommon",
+              "series": "E-Card",
+              "set": "Expedition Base Set",
+              "setCode": "ecard1",
+              "text": [
+                       "Look at 7 cards from the top of your deck. You may choose a Basic Pokémon or Evolution card from those cards, show it to your opponent, and put it into your hand. Shuffle the rest into your deck."
+                       ]
+              },
+              {
+              "id": "xy11-32",
+              "name": "Samurott",
+              "nationalPokedexNumber": 503,
+              "imageUrl": "https://images.pokemontcg.io/xy11/32.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/32_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 2",
+              "evolvesFrom": "Dewott",
+              "hp": "140",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "32",
+              "artist": "Naoyo Kimura",
+              "rarity": "Rare",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Ultimate Blade",
+                          "text": "If the damage from this attack reduces your opponent's Active Pokémon's HP to 60 or less, that Pokémon is Knocked Out.",
+                          "damage": "40",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Pike",
+                          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                          "damage": "90",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-64",
+              "name": "Porygon",
+              "nationalPokedexNumber": 137,
+              "imageUrl": "https://images.pokemontcg.io/xy7/64.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/64_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "64",
+              "artist": "Yukiko Baba",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Data Check",
+                          "text": "Look through your deck. Shuffle your deck afterward.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Sharpen",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-78",
+              "name": "Lysandre",
+              "imageUrl": "https://images.pokemontcg.io/xy7/78.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/78_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Supporter",
+              "number": "78",
+              "artist": "Ken Sugimori",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+                       ]
+              },
+              {
+              "id": "xy5-27",
+              "name": "Combusken",
+              "nationalPokedexNumber": 256,
+              "imageUrl": "https://images.pokemontcg.io/xy5/27.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/27_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Torchic",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "27",
+              "artist": "kawayoo",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire"
+                                   ],
+                          "name": "Quick Attack",
+                          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+                          "damage": "20+",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Colorless"
+                                   ],
+                          "name": "Spiral Kick",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy0-34",
+              "name": "Crushing Hammer",
+              "imageUrl": "https://images.pokemontcg.io/xy0/34.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/34_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Item",
+              "number": "34",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "text": [
+                       "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon."
+                       ]
+              },
+              {
+              "id": "xy0-35",
+              "name": "Poké Ball",
+              "imageUrl": "https://images.pokemontcg.io/xy0/35.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/35_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Item",
+              "number": "35",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "text": [
+                       "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+                       ]
+              },
+              {
+              "id": "xy0-36",
+              "name": "Pokémon Catcher",
+              "imageUrl": "https://images.pokemontcg.io/xy0/36.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy0/36_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Item",
+              "number": "36",
+              "artist": "5ban Graphics",
+              "rarity": "",
+              "series": "XY",
+              "set": "Kalos Starter Set",
+              "setCode": "xy0",
+              "text": [
+                       "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+                       ]
+              },
+              {
+              "id": "ecard3-132",
+              "name": "Mirage Stadium",
+              "imageUrl": "https://images.pokemontcg.io/ecard3/132.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/ecard3/132_hires.png",
+              "supertype": "Trainer",
+              "subtype": "",
+              "number": "132",
+              "artist": "Midori Harada",
+              "rarity": "Uncommon",
+              "series": "E-Card",
+              "set": "Skyridge",
+              "setCode": "ecard3",
+              "text": [
+                       "Whenever a player tries to Retreat a Pokémon during his or her turn, that player flips a coin. If heads, that player retreats that Pokémon (and discards Energy normally). If tails, that Pokémon can't Retreat this turn (the player doesn't discard any Energy)."
+                       ]
+              },
+              {
+              "id": "col1-1",
+              "name": "Clefable",
+              "nationalPokedexNumber": 36,
+              "imageUrl": "https://images.pokemontcg.io/col1/1.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/col1/1_hires.png",
+              "types": [
+                        "Colorless"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Clefairy",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "1",
+              "artist": "sui",
+              "rarity": "Rare Holo",
+              "series": "HeartGold & SoulSilver",
+              "set": "Call of Legends",
+              "setCode": "col1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Fairy Power",
+                          "text": "Return 1 of your Pokémon and all cards attached to it to your hand.",
+                          "damage": "",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Moon Impact",
+                          "text": "",
+                          "damage": "40",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "sm4-3",
+              "name": "Beedrill",
+              "nationalPokedexNumber": 15,
+              "imageUrl": "https://images.pokemontcg.io/sm4/3.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/sm4/3_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 2",
+              "evolvesFrom": "Kakuna",
+              "hp": "120",
+              "number": "3",
+              "artist": "kirisAki",
+              "rarity": "",
+              "series": "Sun & Moon",
+              "set": "Crimson Invasion",
+              "setCode": "sm4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Sudden Sting",
+                          "text": "If this Pokémon evolved from Kakuna during this turn, your opponent's Active Pokémon is now Paralyzed and Poisoned.",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Sharp Sting",
+                          "text": "",
+                          "damage": "60",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-34",
+              "name": "Clawitzer",
+              "nationalPokedexNumber": 693,
+              "imageUrl": "https://images.pokemontcg.io/xy11/34.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/34_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Clauncher",
+              "ability": {
+              "name": "Mega Boost",
+              "text": "Once during your turn (before your attack), you may attach a Special Energy card from your hand to 1 of your Mega Evolution Pokémon.",
+              "type": "Ability"
+              },
+              "hp": "100",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "34",
+              "artist": "Mitsuhiro Arita",
+              "rarity": "Rare",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Crabhammer",
+                          "text": "",
+                          "damage": "60",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-71",
+              "name": "Eco Arm",
+              "imageUrl": "https://images.pokemontcg.io/xy7/71.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/71_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Item",
+              "number": "71",
+              "artist": "Toyste Beach",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "Shuffle 3 Pokémon Tool cards from your discard pile into your deck."
+                       ]
+              },
+              {
+              "id": "xy7-72",
+              "name": "Energy Recycler",
+              "imageUrl": "https://images.pokemontcg.io/xy7/72.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/72_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Item",
+              "number": "72",
+              "artist": "Toyste Beach",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "Shuffle 5 basic Energy cards from your discard pile into your deck."
+                       ]
+              },
+              {
+              "id": "xy7-74",
+              "name": "Forest of Giant Plants",
+              "imageUrl": "https://images.pokemontcg.io/xy7/74.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/74_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Stadium",
+              "number": "74",
+              "artist": "Ryo Ueda",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "Each player's Grass Pokémon can evolve during his or her first turn or the turn he or she plays those Pokémon."
+                       ]
+              },
+              {
+              "id": "xy7-76",
+              "name": "Level Ball",
+              "imageUrl": "https://images.pokemontcg.io/xy7/76.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/76_hires.png",
+              "supertype": "Trainer",
+              "subtype": "Item",
+              "number": "76",
+              "artist": "Toyste Beach",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "Search your deck for a Pokémon with 90 HP or less, reveal it, and put it into your hand. Shuffle your deck afterward."
+                       ]
+              },
+              {
+              "id": "xy5-29",
+              "name": "Camerupt-EX",
+              "nationalPokedexNumber": 323,
+              "imageUrl": "https://images.pokemontcg.io/xy5/29.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/29_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "EX",
+              "hp": "180",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "29",
+              "artist": "Eske Yoshinob",
+              "rarity": "Rare Holo EX",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "text": [
+                       "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+                       ],
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Colorless"
+                                   ],
+                          "name": "Tumbling Attack",
+                          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+                          "damage": "30+",
+                          "convertedEnergyCost": 2
+                          },
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Fire",
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Explosive Jet",
+                          "text": "Discard as many Fire Energy attached to your Pokémon as you like. This attack does 50 damage times the number of Energy cards you discarded.",
+                          "damage": "50x",
+                          "convertedEnergyCost": 4
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy11-36",
+              "name": "Bergmite",
+              "nationalPokedexNumber": 712,
+              "imageUrl": "https://images.pokemontcg.io/xy11/36.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy11/36_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "36",
+              "artist": "Midori Harada",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Steam Siege",
+              "setCode": "xy11",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water"
+                                   ],
+                          "name": "Ice Block",
+                          "text": "Heal 30 damage from this Pokémon.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Colorless"
+                                   ],
+                          "name": "Icy Snow",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Metal",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base1-46",
+              "name": "Charmander",
+              "nationalPokedexNumber": 4,
+              "imageUrl": "https://images.pokemontcg.io/base1/46.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/46_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "50",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "46",
+              "artist": "Mitsuhiro Arita",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Scratch",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Colorless",
+                                   "Fire"
+                                   ],
+                          "name": "Ember",
+                          "text": "Discard 1 Energy card attached to Charmander in order to use this attack.",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "col1-2",
+              "name": "Deoxys",
+              "nationalPokedexNumber": 386,
+              "imageUrl": "https://images.pokemontcg.io/col1/2.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/col1/2_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "2",
+              "artist": "Ryo Ueda",
+              "rarity": "Rare Holo",
+              "series": "HeartGold & SoulSilver",
+              "set": "Call of Legends",
+              "setCode": "col1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Psychic",
+                                   "Psychic",
+                                   "Psychic"
+                                   ],
+                          "name": "Cell Storm",
+                          "text": "Discard 2 Psychic Energy attached to Deoxys and remove 6 damage counters from Deoxys.",
+                          "damage": "60",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "sm4-4",
+              "name": "Exeggcute",
+              "nationalPokedexNumber": 102,
+              "imageUrl": "https://images.pokemontcg.io/sm4/4.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/sm4/4_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "50",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "4",
+              "artist": "Kouki Saitou",
+              "rarity": "",
+              "series": "Sun & Moon",
+              "set": "Crimson Invasion",
+              "setCode": "sm4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Hypnosis",
+                          "text": "Your opponent's Active Pokémon is now Asleep.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Ram",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-86",
+              "name": "Kyurem-EX",
+              "nationalPokedexNumber": 646,
+              "imageUrl": "https://images.pokemontcg.io/xy7/86.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/86_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "EX",
+              "hp": "180",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "86",
+              "artist": "Ryo Ueda",
+              "rarity": "Rare Ultra",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+                       ],
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Glaciate",
+                          "text": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                          "damage": "",
+                          "convertedEnergyCost": 3
+                          },
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Water",
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Icecalibur",
+                          "text": "Discard an Energy attached to this Pokémon. The Defending Pokémon can't attack during your opponent's next turn.",
+                          "damage": "130",
+                          "convertedEnergyCost": 4
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Metal",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "ex5-4",
+              "name": "Dark Celebi",
+              "nationalPokedexNumber": 251,
+              "imageUrl": "https://images.pokemontcg.io/ex5/4.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/ex5/4_hires.png",
+              "types": [
+                        "Grass",
+                        "Darkness"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "70",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "4",
+              "artist": "Ken Ikuji",
+              "rarity": "Rare Holo",
+              "series": "EX",
+              "set": "Hidden Legends",
+              "setCode": "ex5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Dark Provide",
+                          "text": "Attach up to 1 Grass or Darkness Energy card from your hand to your Pokémon.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Grass",
+                                   "Darkness"
+                                   ],
+                          "name": "Leaf Poison",
+                          "text": "The Defending Pokémon is now Poisoned.",
+                          "damage": "20",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy7-83",
+              "name": "Flash Energy",
+              "imageUrl": "https://images.pokemontcg.io/xy7/83.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy7/83_hires.png",
+              "supertype": "Energy",
+              "subtype": "Special",
+              "number": "83",
+              "artist": "5ban Graphics",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Ancient Origins",
+              "setCode": "xy7",
+              "text": [
+                       "This card can only be attached to Lightning Pokémon. This card provides Lightning Energy only while this card is attached to a Lightning Pokémon. The Lightning Pokémon this card is attached to has no Weakness. (If this card is attached to anything other than a Lightning Pokémon, discard this card.)"
+                       ]
+              },
+              {
+              "id": "xy5-30",
+              "name": "Horsea",
+              "nationalPokedexNumber": 116,
+              "imageUrl": "https://images.pokemontcg.io/xy5/30.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/30_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "30",
+              "artist": "kirisAki",
+              "rarity": "Common",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water"
+                                   ],
+                          "name": "Bubble",
+                          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy5-31",
+              "name": "Seadra",
+              "nationalPokedexNumber": 117,
+              "imageUrl": "https://images.pokemontcg.io/xy5/31.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy5/31_hires.png",
+              "types": [
+                        "Water"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Horsea",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "31",
+              "artist": "Sanosuke Sakuma",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Primal Clash",
+              "setCode": "xy5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Water"
+                                   ],
+                          "name": "Knockout Needle",
+                          "text": "Flip 2 coins. If both of them are heads, this attack does 40 more damage.",
+                          "damage": "10+",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Water",
+                                   "Colorless"
+                                   ],
+                          "name": "Water Gun",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "x2"
+                             }
+                             ]
+              },
+              {
+              "id": "base4-98",
+              "name": "Voltorb",
+              "nationalPokedexNumber": 100,
+              "imageUrl": "https://images.pokemontcg.io/base4/98.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base4/98_hires.png",
+              "types": [
+                        "Lightning"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "40",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "98",
+              "artist": "Keiji Kinebuchi",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base Set 2",
+              "setCode": "base4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Tackle",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fighting",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base4-91",
+              "name": "Sandshrew",
+              "nationalPokedexNumber": 27,
+              "imageUrl": "https://images.pokemontcg.io/base4/91.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base4/91_hires.png",
+              "types": [
+                        "Fighting"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "40",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "91",
+              "artist": "Ken Sugimori",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base Set 2",
+              "setCode": "base4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fighting"
+                                   ],
+                          "name": "Sand-attack",
+                          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Lightning",
+                              "value": "-30"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "col1-4",
+              "name": "Espeon",
+              "nationalPokedexNumber": 196,
+              "imageUrl": "https://images.pokemontcg.io/col1/4.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/col1/4_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Eevee",
+              "hp": "90",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "4",
+              "artist": "match",
+              "rarity": "Rare Holo",
+              "series": "HeartGold & SoulSilver",
+              "set": "Call of Legends",
+              "setCode": "col1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Psychic"
+                                   ],
+                          "name": "Solar Suggestion",
+                          "text": "Move up to 4 damage counters from any of your Pokémon to any of your opponent's Pokémon in any way you like.",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Psychic",
+                                   "Colorless"
+                                   ],
+                          "name": "Psybeam",
+                          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "sm4-5",
+              "name": "Cacnea",
+              "nationalPokedexNumber": 331,
+              "imageUrl": "https://images.pokemontcg.io/sm4/5.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/sm4/5_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "60",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "5",
+              "artist": "Anesaki Dynamic",
+              "rarity": "",
+              "series": "Sun & Moon",
+              "set": "Crimson Invasion",
+              "setCode": "sm4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass"
+                                   ],
+                          "name": "Sucker Punch",
+                          "text": "If this Pokémon has any Darkness Energy attached to it, this attack does 30 more damage.",
+                          "damage": "10+",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Fire",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy4-9",
+              "name": "Fletchinder",
+              "nationalPokedexNumber": 662,
+              "imageUrl": "https://images.pokemontcg.io/xy4/9.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy4/9_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Fletchling",
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "9",
+              "artist": "Suwama Chiaki",
+              "rarity": "Uncommon",
+              "series": "XY",
+              "set": "Phantom Forces",
+              "setCode": "xy4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire"
+                                   ],
+                          "name": "Peck",
+                          "text": "",
+                          "damage": "20",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Fire",
+                                   "Colorless"
+                                   ],
+                          "name": "Combustion",
+                          "text": "",
+                          "damage": "60",
+                          "convertedEnergyCost": 3
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Fighting",
+                              "value": "-20"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Lightning",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "xy4-12",
+              "name": "Pyroar",
+              "nationalPokedexNumber": 668,
+              "imageUrl": "https://images.pokemontcg.io/xy4/12.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/xy4/12_hires.png",
+              "types": [
+                        "Fire"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Litleo",
+              "ability": {
+              "name": "Flare Command",
+              "text": "Once during your turn (before your attack), you may discard a Fire Energy attached to this Pokémon. If you do, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+              "type": "Ability"
+              },
+              "hp": "110",
+              "retreatCost": [
+                              "Colorless",
+                              "Colorless"
+                              ],
+              "number": "12",
+              "artist": "Naoki Saito",
+              "rarity": "Rare Holo",
+              "series": "XY",
+              "set": "Phantom Forces",
+              "setCode": "xy4",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fire",
+                                   "Fire",
+                                   "Fire",
+                                   "Colorless"
+                                   ],
+                          "name": "Inferno Onrush",
+                          "text": "This Pokémon does 30 damage to itself.",
+                          "damage": "110",
+                          "convertedEnergyCost": 4
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Water",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "ex5-2",
+              "name": "Claydol",
+              "nationalPokedexNumber": 344,
+              "imageUrl": "https://images.pokemontcg.io/ex5/2.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/ex5/2_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Stage 1",
+              "evolvesFrom": "Baltoy",
+              "ability": {
+              "name": "Primal Pull",
+              "text": "As long as Claydol is your Active Pokémon, each player's Evolved Pokémon pays Colorless more Energy to use its attacks.\"",
+              "type": "Poké-Body"
+              },
+              "hp": "80",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "2",
+              "artist": "Kyoko Umemoto",
+              "rarity": "Rare Holo",
+              "series": "EX",
+              "set": "Hidden Legends",
+              "setCode": "ex5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Psychic"
+                                   ],
+                          "name": "Muddy Eye",
+                          "text": "Does 10 damage times the number of basic Energy cards attached to Claydol and the Defending Pokémon.",
+                          "damage": "10x",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base1-49",
+              "name": "Drowzee",
+              "nationalPokedexNumber": 96,
+              "imageUrl": "https://images.pokemontcg.io/base1/49.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/49_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "50",
+              "number": "49",
+              "artist": "Ken Sugimori",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Colorless"
+                                   ],
+                          "name": "Pound",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Psychic",
+                                   "Psychic"
+                                   ],
+                          "name": "Confuse Ray",
+                          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+                          "damage": "10",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base1-51",
+              "name": "Koffing",
+              "nationalPokedexNumber": 109,
+              "imageUrl": "https://images.pokemontcg.io/base1/51.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/51_hires.png",
+              "types": [
+                        "Grass"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "50",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "51",
+              "artist": "Mitsuhiro Arita",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Grass",
+                                   "Grass"
+                                   ],
+                          "name": "Foul Gas",
+                          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, it is now Confused.",
+                          "damage": "",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base1-47",
+              "name": "Diglett",
+              "nationalPokedexNumber": 50,
+              "imageUrl": "https://images.pokemontcg.io/base1/47.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base1/47_hires.png",
+              "types": [
+                        "Fighting"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "30",
+              "number": "47",
+              "artist": "Keiji Kinebuchi",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Base",
+              "setCode": "base1",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Fighting"
+                                   ],
+                          "name": "Dig",
+                          "text": "",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Fighting",
+                                   "Fighting"
+                                   ],
+                          "name": "Mud Slap",
+                          "text": "",
+                          "damage": "30",
+                          "convertedEnergyCost": 2
+                          }
+                          ],
+              "resistances": [
+                              {
+                              "type": "Lightning",
+                              "value": "-30"
+                              }
+                              ],
+              "weaknesses": [
+                             {
+                             "type": "Grass",
+                             "value": "×2"
+                             }
+                             ]
+              },
+              {
+              "id": "base5-49",
+              "name": "Abra",
+              "nationalPokedexNumber": 63,
+              "imageUrl": "https://images.pokemontcg.io/base5/49.png",
+              "imageUrlHiRes": "https://images.pokemontcg.io/base5/49_hires.png",
+              "types": [
+                        "Psychic"
+                        ],
+              "supertype": "Pokémon",
+              "subtype": "Basic",
+              "hp": "40",
+              "retreatCost": [
+                              "Colorless"
+                              ],
+              "number": "49",
+              "artist": "Sumiyoshi Kizuki",
+              "rarity": "Common",
+              "series": "Base",
+              "set": "Team Rocket",
+              "setCode": "base5",
+              "attacks": [
+                          {
+                          "cost": [
+                                   "Psychic"
+                                   ],
+                          "name": "Vanish",
+                          "text": "Shuffle Abra into your deck. (Discard all cards attached to Abra.)",
+                          "damage": "",
+                          "convertedEnergyCost": 1
+                          },
+                          {
+                          "cost": [
+                                   "Psychic"
+                                   ],
+                          "name": "Psyshock",
+                          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                          "damage": "10",
+                          "convertedEnergyCost": 1
+                          }
+                          ],
+              "weaknesses": [
+                             {
+                             "type": "Psychic",
+                             "value": "×2"
+                             }
+                             ]
+              }
+              ]
+}

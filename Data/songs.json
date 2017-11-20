@@ -1,0 +1,1787 @@
+[
+ {
+ "song_id": "29",
+ "song_name": "Isn't Life Strange",
+ "artist_id": "300750",
+ "display_artist": "The Moody Blues",
+ "spotify_id": "1Msib7g7wMJU8U1rZGGV7J"
+ },
+ {
+ "song_id": "65",
+ "song_name": "Life And Breath",
+ "artist_id": "299434",
+ "display_artist": "Climax featuring Sonny Geraci",
+ "spotify_id": "7wiVLRm3nWOhfDpB0lbTEu"
+ },
+ {
+ "song_id": "230",
+ "song_name": "My Life",
+ "artist_id": "299312",
+ "display_artist": "Chuck Willis",
+ "spotify_id": "26X1WcM7YvpSWCybEkdcbS"
+ },
+ {
+ "song_id": "387",
+ "song_name": "Love Of My Life",
+ "artist_id": "404346",
+ "display_artist": "The Everly Brothers",
+ "spotify_id": "56ZKAGZDu0NGwJkhPcJ6At"
+ },
+ {
+ "song_id": "1673",
+ "song_name": "(I Wanna) Love My Life Away",
+ "artist_id": "302676",
+ "display_artist": "Gene Pitney",
+ "spotify_id": "2eYyzqPX6VQdBIZnqB4g4h"
+ },
+ {
+ "song_id": "1803",
+ "song_name": "(It Never Happens) In Real Life",
+ "artist_id": "299298",
+ "display_artist": "Chuck Jackson",
+ "spotify_id": null
+ },
+ {
+ "song_id": "1867",
+ "song_name": "Life's A Holiday",
+ "artist_id": "304510",
+ "display_artist": "Jerry Wallace",
+ "spotify_id": "3e8Rqh9GPB4g6qPNPIYN6n"
+ },
+ {
+ "song_id": "1926",
+ "song_name": "Lonely Life",
+ "artist_id": "304003",
+ "display_artist": "Jackie Wilson",
+ "spotify_id": "4HldUdomvLIQWIrHm1u4c4"
+ },
+ {
+ "song_id": "1976",
+ "song_name": "La Dolce Vita (The Sweet Life)",
+ "artist_id": "364675",
+ "display_artist": "Ray Ellis And His Orchestra",
+ "spotify_id": null
+ },
+ {
+ "song_id": "2563",
+ "song_name": "Where Have You Been (All My Life)",
+ "artist_id": "279991",
+ "display_artist": "Arthur Alexander",
+ "spotify_id": null
+ },
+ {
+ "song_id": "2650",
+ "song_name": "Life's Too Short",
+ "artist_id": "418487",
+ "display_artist": "The Lafayettes",
+ "spotify_id": null
+ },
+ {
+ "song_id": "2867",
+ "song_name": "That's Life (That's Tough)",
+ "artist_id": "276260",
+ "display_artist": "Gabriel And The Angels",
+ "spotify_id": null
+ },
+ {
+ "song_id": "2976",
+ "song_name": "I Will Live My Life For You",
+ "artist_id": "430193",
+ "display_artist": "Tony Bennett",
+ "spotify_id": "48Wr6FLDXMuJNUhyX9o5rR"
+ },
+ {
+ "song_id": "3080",
+ "song_name": "Dearer Than Life",
+ "artist_id": "297651",
+ "display_artist": "Brook Benton",
+ "spotify_id": null
+ },
+ {
+ "song_id": "3189",
+ "song_name": "The Good Life",
+ "artist_id": "430193",
+ "display_artist": "Tony Bennett",
+ "spotify_id": "6SudzfJT7tNdU9MPpzUiMV"
+ },
+ {
+ "song_id": "3356",
+ "song_name": "Please Don't Talk To The Lifeguard",
+ "artist_id": "300884",
+ "display_artist": "Diane Ray",
+ "spotify_id": "41E6gXPodIOUmQZnREiMsM"
+ },
+ {
+ "song_id": "3448",
+ "song_name": "Night Life",
+ "artist_id": "369327",
+ "display_artist": "Rusty Draper",
+ "spotify_id": null
+ },
+ {
+ "song_id": "4269",
+ "song_name": "Without The One You Love (Life's Not Worth While)",
+ "artist_id": "408741",
+ "display_artist": "Four Tops",
+ "spotify_id": null
+ },
+ {
+ "song_id": "4498",
+ "song_name": "This Sporting Life",
+ "artist_id": "276472",
+ "display_artist": "Ian Whitcomb And Bluesville",
+ "spotify_id": "0lMfJ3HjAXUKL517ePufmc"
+ },
+ {
+ "song_id": "4519",
+ "song_name": "All Of My Life",
+ "artist_id": "307067",
+ "display_artist": "Lesley Gore",
+ "spotify_id": "0wi8An61KtKXMndYeAHycg"
+ },
+ {
+ "song_id": "4542",
+ "song_name": "Just Once In My Life",
+ "artist_id": "418985",
+ "display_artist": "The Righteous Brothers",
+ "spotify_id": "0qdTcFmL5mtPgdYqPPJubE"
+ },
+ {
+ "song_id": "4883",
+ "song_name": "A Lifetime Of Loneliness",
+ "artist_id": "303990",
+ "display_artist": "Jackie DeShannon",
+ "spotify_id": "6Jx6jy5B6ATD4wkWAYGR0f"
+ },
+ {
+ "song_id": "4943",
+ "song_name": "It's My Life",
+ "artist_id": "380202",
+ "display_artist": "The Animals",
+ "spotify_id": "3NnfJ0a4bGjmEGuOrX2ujS"
+ },
+ {
+ "song_id": "5036",
+ "song_name": "The Men In My Little Girl's Life",
+ "artist_id": "311175",
+ "display_artist": "Mike Douglas",
+ "spotify_id": "0JYQFrMnosRAaT2PUtfOAq"
+ },
+ {
+ "song_id": "5055",
+ "song_name": "Get Out Of My Life, Woman",
+ "artist_id": "306822",
+ "display_artist": "Lee Dorsey",
+ "spotify_id": "6DNgKv1sWH2505Z5SAqAXr"
+ },
+ {
+ "song_id": "5590",
+ "song_name": "The Other Side Of This Life",
+ "artist_id": "331058",
+ "display_artist": "Peter, Paul & Mary",
+ "spotify_id": "7nHpusEs6QsRM2dDQVsuDo"
+ },
+ {
+ "song_id": "5659",
+ "song_name": "A Day In The Life Of A Fool",
+ "artist_id": "303968",
+ "display_artist": "Jack Jones",
+ "spotify_id": "7Bn0CG8wQrgEN5EELUcaUk"
+ },
+ {
+ "song_id": "5690",
+ "song_name": "That's Life",
+ "artist_id": "302382",
+ "display_artist": "Frank Sinatra",
+ "spotify_id": "2Fy3O4gz4ebroaLu9AfSIu"
+ },
+ {
+ "song_id": "6243",
+ "song_name": "Just Once In A Lifetime",
+ "artist_id": "297107",
+ "display_artist": "Brenda & The Tabulations",
+ "spotify_id": "6wTyjXypjeg9wxpvGiypEq"
+ },
+ {
+ "song_id": "6395",
+ "song_name": "For Once In My Life",
+ "artist_id": "430193",
+ "display_artist": "Tony Bennett",
+ "spotify_id": "5Pa8odqF9uL2FegbhrWu5o"
+ },
+ {
+ "song_id": "6470",
+ "song_name": "Live For Life",
+ "artist_id": "303968",
+ "display_artist": "Jack Jones",
+ "spotify_id": null
+ },
+ {
+ "song_id": "6849",
+ "song_name": "Autumn Of My Life",
+ "artist_id": "294646",
+ "display_artist": "Bobby Goldsboro",
+ "spotify_id": "2QcfJAPkYeHpHtyXU9ysrj"
+ },
+ {
+ "song_id": "6898",
+ "song_name": "Life",
+ "artist_id": "279607",
+ "display_artist": "Sly & The Family Stone",
+ "spotify_id": "0aI5KoqucjqXjPi7bFENFQ"
+ },
+ {
+ "song_id": "6956",
+ "song_name": "My Way Of Life",
+ "artist_id": "302382",
+ "display_artist": "Frank Sinatra",
+ "spotify_id": "13yF05mEhsYC7AUByadMhJ"
+ },
+ {
+ "song_id": "7063",
+ "song_name": "The Straight Life",
+ "artist_id": "294646",
+ "display_artist": "Bobby Goldsboro",
+ "spotify_id": "3xsBgu7Q8woV9Ygec0jT5U"
+ },
+ {
+ "song_id": "7080",
+ "song_name": "For Once In My Life",
+ "artist_id": "280720",
+ "display_artist": "Stevie Wonder",
+ "spotify_id": "0LV92R4wdondcUgRHcTFRi"
+ },
+ {
+ "song_id": "7081",
+ "song_name": "For Once In My Life",
+ "artist_id": "304003",
+ "display_artist": "Jackie Wilson",
+ "spotify_id": null
+ },
+ {
+ "song_id": "7208",
+ "song_name": "Ain't Got No; I Got Life",
+ "artist_id": "312319",
+ "display_artist": "Nina Simone",
+ "spotify_id": "7JrIbJPjRZasvg85fbc556"
+ },
+ {
+ "song_id": "7670",
+ "song_name": "Life And Death In G & A",
+ "artist_id": "277895",
+ "display_artist": "Abaco Dream",
+ "spotify_id": null
+ },
+ {
+ "song_id": "7846",
+ "song_name": "Groovin' (Out On Life)",
+ "artist_id": "418716",
+ "display_artist": "The Newbeats",
+ "spotify_id": null
+ },
+ {
+ "song_id": "7986",
+ "song_name": "Come Into My Life",
+ "artist_id": "304675",
+ "display_artist": "Jimmy Cliff",
+ "spotify_id": "1kuXYtTamz3BYnVM2S0lID"
+ },
+ {
+ "song_id": "7991",
+ "song_name": "Reflections Of My Life",
+ "artist_id": "309661",
+ "display_artist": "The Marmalade",
+ "spotify_id": "7Bp0pbyAMnoDhHbocCbm3w"
+ },
+ {
+ "song_id": "8178",
+ "song_name": "One Day Of Your Life",
+ "artist_id": "1482828",
+ "display_artist": "Andy Williams",
+ "spotify_id": "5Kr3pIvgFzOL0qAHm7YAVE"
+ },
+ {
+ "song_id": "8231",
+ "song_name": "It's Your Life",
+ "artist_id": "279193",
+ "display_artist": "Andy Kim",
+ "spotify_id": null
+ },
+ {
+ "song_id": "8528",
+ "song_name": "Just Seven Numbers (Can Straighten Out My Life)",
+ "artist_id": "408741",
+ "display_artist": "Four Tops",
+ "spotify_id": "0UmnHwAmhDJE8NRxZBkQfw"
+ },
+ {
+ "song_id": "8543",
+ "song_name": "Hang On To Your Life",
+ "artist_id": "412542",
+ "display_artist": "The Guess Who",
+ "spotify_id": "6i4f0NcyyaGwx2106OlxJF"
+ },
+ {
+ "song_id": "8585",
+ "song_name": "What Is Life",
+ "artist_id": "302733",
+ "display_artist": "George Harrison",
+ "spotify_id": "3wCp8O9oulMsQvJAw3k3uI"
+ },
+ {
+ "song_id": "8727",
+ "song_name": "Life/Only Believe",
+ "artist_id": "301690",
+ "display_artist": "Elvis Presley",
+ "spotify_id": "75JKs8JEPZ7Aa6feb6ZL22"
+ },
+ {
+ "song_id": "8818",
+ "song_name": "Love Is Life",
+ "artist_id": "276054",
+ "display_artist": "Earth, Wind & Fire",
+ "spotify_id": "2Xz3YbSjZqWdPWcSucfCVB"
+ },
+ {
+ "song_id": "8935",
+ "song_name": "Summer Side Of Life",
+ "artist_id": "303023",
+ "display_artist": "Gordon Lightfoot",
+ "spotify_id": "4c7jDzrbO38GPT8x9wLkOr"
+ },
+ {
+ "song_id": "8986",
+ "song_name": "Life Is A Carnival",
+ "artist_id": "382882",
+ "display_artist": "The Band",
+ "spotify_id": "08GcRtSWy2YoCPKbNx2wiA"
+ },
+ {
+ "song_id": "9157",
+ "song_name": "Every Day Of My Life",
+ "artist_id": "295525",
+ "display_artist": "Bobby Vinton",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9186",
+ "song_name": "(Love Me) Love The Life I Lead",
+ "artist_id": null,
+ "display_artist": "The Fantastics",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9333",
+ "song_name": "The Coldest Days Of My Life (Part 1)",
+ "artist_id": "392914",
+ "display_artist": "The Chi-lites",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9701",
+ "song_name": "You Are The Sunshine Of My Life",
+ "artist_id": "280720",
+ "display_artist": "Stevie Wonder",
+ "spotify_id": "5jWZR3cKUChstrHpNnTPCS"
+ },
+ {
+ "song_id": "9752",
+ "song_name": "Without You In My Life",
+ "artist_id": "430667",
+ "display_artist": "Tyrone Davis",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9868",
+ "song_name": "You Light Up My Life/Believe In Humanity",
+ "artist_id": "298738",
+ "display_artist": "Carole King",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9973",
+ "song_name": "Life Ain't Easy",
+ "artist_id": "301273",
+ "display_artist": "Dr. Hook And The Medicine Show",
+ "spotify_id": "7INqYallFmm1u4cE8aJ8od"
+ },
+ {
+ "song_id": "10032",
+ "song_name": "Rock 'N Roll (I Gave You The Best Years of My Life)",
+ "artist_id": null,
+ "display_artist": "Kevin Johnson",
+ "spotify_id": null
+ },
+ {
+ "song_id": "10098",
+ "song_name": "Life Is A Song Worth Singing",
+ "artist_id": "305081",
+ "display_artist": "Johnny Mathis",
+ "spotify_id": "5tVfaItoZh4pMte6SoeYnl"
+ },
+ {
+ "song_id": "10128",
+ "song_name": "Thanks For Saving My Life",
+ "artist_id": "284807",
+ "display_artist": "Billy Paul",
+ "spotify_id": "7rLuhv76F0qvISOrFkYYxN"
+ },
+ {
+ "song_id": "10168",
+ "song_name": "There's Got To Be Rain In Your Life (To Appreciate The Sunshine)",
+ "artist_id": "301211",
+ "display_artist": "Dorothy Norwood",
+ "spotify_id": null
+ },
+ {
+ "song_id": "10208",
+ "song_name": "Might Just Take Your Life",
+ "artist_id": "300672",
+ "display_artist": "Deep Purple",
+ "spotify_id": "3SKjoV937KQpB9UsKuwfmj"
+ },
+ {
+ "song_id": "10430",
+ "song_name": "Life Is A Rock (But The Radio Rolled Me)",
+ "artist_id": "364892",
+ "display_artist": "Reunion",
+ "spotify_id": "0QhrOgpF2BaqHOLoLypBku"
+ },
+ {
+ "song_id": "10501",
+ "song_name": "Country Side Of Life",
+ "artist_id": "431293",
+ "display_artist": "Wet Willie",
+ "spotify_id": "7E9jyxC74QgK3gEjdoya5e"
+ },
+ {
+ "song_id": "10559",
+ "song_name": "Rock N' Roll (I Gave You The Best Years Of My Life)",
+ "artist_id": "276895",
+ "display_artist": "Mac Davis",
+ "spotify_id": "2K1d632SYsYwt8SMYE9V2L"
+ },
+ {
+ "song_id": "10563",
+ "song_name": "Rock 'N' Roll (I Gave You The Best Years Of My Life)",
+ "artist_id": "376088",
+ "display_artist": "Terry Jacks",
+ "spotify_id": null
+ },
+ {
+ "song_id": "10692",
+ "song_name": "Live Your Life Before You Die",
+ "artist_id": "418857",
+ "display_artist": "The Pointer Sisters",
+ "spotify_id": null
+ },
+ {
+ "song_id": "10833",
+ "song_name": "Got To Get You Into My Life",
+ "artist_id": "290885",
+ "display_artist": "Blood, Sweat & Tears",
+ "spotify_id": "3J18G0juCSotrye2o28wzi"
+ },
+ {
+ "song_id": "10869",
+ "song_name": "Someone Saved My Life Tonight",
+ "artist_id": "301679",
+ "display_artist": "Elton John",
+ "spotify_id": "5i7z7K3YuFCGbYIn6OzrpA"
+ },
+ {
+ "song_id": "10901",
+ "song_name": "Life And Death In G&A",
+ "artist_id": null,
+ "display_artist": "Love Childs Afro Cuban Blues Band",
+ "spotify_id": null
+ },
+ {
+ "song_id": "11078",
+ "song_name": "Times Of Your Life",
+ "artist_id": "328344",
+ "display_artist": "Paul Anka",
+ "spotify_id": "3qLEJWPDvlgJM2eOXGBPbw"
+ },
+ {
+ "song_id": "11387",
+ "song_name": "Got To Get You Into My Life",
+ "artist_id": "383540",
+ "display_artist": "The Beatles",
+ "spotify_id": "0Lkf8mbEreomh1CcjEyLir"
+ },
+ {
+ "song_id": "11462",
+ "song_name": "One Love In My Lifetime",
+ "artist_id": "300875",
+ "display_artist": "Diana Ross",
+ "spotify_id": "1Q0upLHepnwMjcb7kUpoiv"
+ },
+ {
+ "song_id": "11464",
+ "song_name": "I Can't Hear You No More/Music Is My Life",
+ "artist_id": "303416",
+ "display_artist": "Helen Reddy",
+ "spotify_id": null
+ },
+ {
+ "song_id": "11522",
+ "song_name": "Love Of My Life",
+ "artist_id": "302857",
+ "display_artist": "Gino Vannelli",
+ "spotify_id": "2BI6qMfb8scz39V52reDzc"
+ },
+ {
+ "song_id": "11846",
+ "song_name": "Life In The Fast Lane",
+ "artist_id": "276040",
+ "display_artist": "Eagles",
+ "spotify_id": "6SQVwm7wNK2PWuP7jvBWRH"
+ },
+ {
+ "song_id": "11903",
+ "song_name": "Livin' In The Life",
+ "artist_id": "416425",
+ "display_artist": "The Isley Brothers",
+ "spotify_id": "4JCwUSjAAx100LezP1pbx3"
+ },
+ {
+ "song_id": "11989",
+ "song_name": "You Light Up My Life",
+ "artist_id": "300630",
+ "display_artist": "Debby Boone",
+ "spotify_id": "7yjAL13BeIaT9BKJZBy8b1"
+ },
+ {
+ "song_id": "12080",
+ "song_name": "You Light Up My Life",
+ "artist_id": null,
+ "display_artist": "Kacey Cisyk/Original Cast",
+ "spotify_id": null
+ },
+ {
+ "song_id": "12132",
+ "song_name": "What A Difference You've Made In My Life",
+ "artist_id": "368568",
+ "display_artist": "Ronnie Milsap",
+ "spotify_id": "2aRZlcf5SE7Qq0SslQh30R"
+ },
+ {
+ "song_id": "12265",
+ "song_name": "Where Have You Been All My Life",
+ "artist_id": "302314",
+ "display_artist": "Fotomaker",
+ "spotify_id": "0O6hLhebUQGNFeCI8CpRyF"
+ },
+ {
+ "song_id": "12314",
+ "song_name": "That Once In A Lifetime",
+ "artist_id": "300745",
+ "display_artist": "Demis Roussos",
+ "spotify_id": null
+ },
+ {
+ "song_id": "12323",
+ "song_name": "Life's Been Good",
+ "artist_id": "304854",
+ "display_artist": "Joe Walsh",
+ "spotify_id": "2wvMC5EyaaYQwBfiwwY2xE"
+ },
+ {
+ "song_id": "12352",
+ "song_name": "Only One Love In My Life",
+ "artist_id": "368568",
+ "display_artist": "Ronnie Milsap",
+ "spotify_id": "285Vc338NLtUyh1SMUuh3H"
+ },
+ {
+ "song_id": "12358",
+ "song_name": "I Love The Nightlife (Disco 'Round)",
+ "artist_id": "278598",
+ "display_artist": "Alicia Bridges",
+ "spotify_id": "6c0G8K6G2LlIfJTsRLJjfs"
+ },
+ {
+ "song_id": "12367",
+ "song_name": "Got To Get You Into My Life",
+ "artist_id": "276054",
+ "display_artist": "Earth, Wind & Fire",
+ "spotify_id": "3Uac2LXOc10m9nA3rhl75b"
+ },
+ {
+ "song_id": "12419",
+ "song_name": "Sweet Life",
+ "artist_id": "1530484",
+ "display_artist": "Paul Davis",
+ "spotify_id": "5bMbxO8cQYpJEi9rygYqcm"
+ },
+ {
+ "song_id": "12501",
+ "song_name": "My Life",
+ "artist_id": "284376",
+ "display_artist": "Billy Joel",
+ "spotify_id": "6Ep2XErOa5SCBGzARBpCr4"
+ },
+ {
+ "song_id": "12590",
+ "song_name": "You Stepped Into My Life",
+ "artist_id": "310422",
+ "display_artist": "Melba Moore",
+ "spotify_id": "29NBqITzgvrpmO0QJvYht9"
+ },
+ {
+ "song_id": "12634",
+ "song_name": "Wheels Of Life",
+ "artist_id": "302857",
+ "display_artist": "Gino Vannelli",
+ "spotify_id": "0F0EwklFNp9UXD4sZ9HIOE"
+ },
+ {
+ "song_id": "12888",
+ "song_name": "Street Life",
+ "artist_id": "397319",
+ "display_artist": "The Crusaders",
+ "spotify_id": "7oDECYFvahSXRS13ktv1wD"
+ },
+ {
+ "song_id": "12900",
+ "song_name": "You Decorated My Life",
+ "artist_id": "305733",
+ "display_artist": "Kenny Rogers",
+ "spotify_id": "2IbhWAMnHvKqLqUbc0CW4K"
+ },
+ {
+ "song_id": "12916",
+ "song_name": "You Stepped Into My Life",
+ "artist_id": "431138",
+ "display_artist": "Wayne Newton",
+ "spotify_id": null
+ },
+ {
+ "song_id": "12984",
+ "song_name": "Life During Wartime (This Ain't No Party...This Ain't No Disco...This Ain't",
+ "artist_id": "277561",
+ "display_artist": "Talking Heads",
+ "spotify_id": null
+ },
+ {
+ "song_id": "13186",
+ "song_name": "She's Out Of My Life",
+ "artist_id": "310778",
+ "display_artist": "Michael Jackson",
+ "spotify_id": "3oiEFdnT6VWhlrDjCYxxyk"
+ },
+ {
+ "song_id": "13279",
+ "song_name": "Drivin' My Life Away",
+ "artist_id": "301424",
+ "display_artist": "Eddie Rabbitt",
+ "spotify_id": "5menYBMHmWshyVEiAqMSsQ"
+ },
+ {
+ "song_id": "13417",
+ "song_name": "One Life To Live",
+ "artist_id": null,
+ "display_artist": "Wayne Massey",
+ "spotify_id": null
+ },
+ {
+ "song_id": "13557",
+ "song_name": "Bon Bon Vie (Gimme The Good Life)",
+ "artist_id": "277492",
+ "display_artist": "T.S. Monk",
+ "spotify_id": null
+ },
+ {
+ "song_id": "13616",
+ "song_name": "One Day In Your Life",
+ "artist_id": "310778",
+ "display_artist": "Michael Jackson",
+ "spotify_id": "1CroVonLHw82P7XESQwZyk"
+ },
+ {
+ "song_id": "13621",
+ "song_name": "I've Been Waiting For You All Of My Life",
+ "artist_id": "328344",
+ "display_artist": "Paul Anka",
+ "spotify_id": null
+ },
+ {
+ "song_id": "13658",
+ "song_name": "A Life Of Illusion",
+ "artist_id": "304854",
+ "display_artist": "Joe Walsh",
+ "spotify_id": "3LAcw5r9ew9W7FUts4T6AZ"
+ },
+ {
+ "song_id": "13782",
+ "song_name": "Tryin' To Live My Life Without You",
+ "artist_id": "293790",
+ "display_artist": "Bob Seger",
+ "spotify_id": null
+ },
+ {
+ "song_id": "13788",
+ "song_name": "(Want You) Back In My Life Again",
+ "artist_id": "298754",
+ "display_artist": "Carpenters",
+ "spotify_id": "5EExHSvT5htJDxE3pCqOIL"
+ },
+ {
+ "song_id": "13864",
+ "song_name": "Comin' In And Out Of Your Life",
+ "artist_id": "280667",
+ "display_artist": "Barbra Streisand",
+ "spotify_id": null
+ },
+ {
+ "song_id": "13994",
+ "song_name": "If I Could Get You (into my Life)",
+ "artist_id": "302670",
+ "display_artist": "Gene Cotton",
+ "spotify_id": null
+ },
+ {
+ "song_id": "14186",
+ "song_name": "Don't Run My Life",
+ "artist_id": "280234",
+ "display_artist": "Spys",
+ "spotify_id": "7mpEsuWBVBx0ZVnRLXpxvB"
+ },
+ {
+ "song_id": "14408",
+ "song_name": "Escalator Of Life",
+ "artist_id": "365894",
+ "display_artist": "Robert Hazard",
+ "spotify_id": "1OwgKwIdJalION0TD32Pa6"
+ },
+ {
+ "song_id": "14472",
+ "song_name": "All My Life",
+ "artist_id": "305733",
+ "display_artist": "Kenny Rogers",
+ "spotify_id": "3sLl49k8fD5zglocxpwY99"
+ },
+ {
+ "song_id": "14641",
+ "song_name": "Spice Of Life",
+ "artist_id": "418578",
+ "display_artist": "The Manhattan Transfer",
+ "spotify_id": "1ghj900boy6YVAP9XdY6v4"
+ },
+ {
+ "song_id": "14665",
+ "song_name": "Canvas Of Life",
+ "artist_id": "311402",
+ "display_artist": "Minor Detail",
+ "spotify_id": null
+ },
+ {
+ "song_id": "14666",
+ "song_name": "Life Gets Better",
+ "artist_id": "303063",
+ "display_artist": "Graham Parker",
+ "spotify_id": "0UWVoPBTsyANO5VPbQMK7T"
+ },
+ {
+ "song_id": "14896",
+ "song_name": "It's My Life",
+ "artist_id": "277560",
+ "display_artist": "Talk Talk",
+ "spotify_id": "6m7fhJkK6TbuGDFhBNpgyn"
+ },
+ {
+ "song_id": "14997",
+ "song_name": "The Glamorous Life",
+ "artist_id": null,
+ "display_artist": "Sheila E",
+ "spotify_id": "179SfVFJ0ZN41toTxnpgRD"
+ },
+ {
+ "song_id": "15044",
+ "song_name": "It's A Hard Life",
+ "artist_id": "277241",
+ "display_artist": "Queen",
+ "spotify_id": "0OuAhkujavU8i9ntBbQztM"
+ },
+ {
+ "song_id": "15049",
+ "song_name": "Straight From The Heart (Into Your Life)",
+ "artist_id": null,
+ "display_artist": "Coyote Sisters",
+ "spotify_id": null
+ },
+ {
+ "song_id": "15173",
+ "song_name": "The Wild Life",
+ "artist_id": "280516",
+ "display_artist": "Bananarama",
+ "spotify_id": "6EuiXwvOErBIvsvYT2J2nT"
+ },
+ {
+ "song_id": "15442",
+ "song_name": "Life In One Day",
+ "artist_id": "1496703",
+ "display_artist": "Howard Jones",
+ "spotify_id": "1v1wwucdeEL5dl80ZDInsD"
+ },
+ {
+ "song_id": "15462",
+ "song_name": "Pop Life",
+ "artist_id": "351039",
+ "display_artist": "Prince And The Revolution",
+ "spotify_id": "5dF7VvXIL5dlF8X46Ytwp5"
+ },
+ {
+ "song_id": "15488",
+ "song_name": "Dancin  In The Key Of Life",
+ "artist_id": "280573",
+ "display_artist": "Steve Arrington",
+ "spotify_id": null
+ },
+ {
+ "song_id": "15580",
+ "song_name": "Walk Of Life",
+ "artist_id": "300978",
+ "display_artist": "Dire Straits",
+ "spotify_id": "5ij84aZDvRN4zSHSh2L6pl"
+ },
+ {
+ "song_id": "15614",
+ "song_name": "Life In A Northern Town",
+ "artist_id": "401794",
+ "display_artist": "The Dream Academy",
+ "spotify_id": "4m3OS54KWywYhP7WD7z1cg"
+ },
+ {
+ "song_id": "15658",
+ "song_name": "Live Is Life",
+ "artist_id": "418763",
+ "display_artist": "Opus",
+ "spotify_id": "5luOvrlnzfvJQdQjrScVj4"
+ },
+ {
+ "song_id": "15671",
+ "song_name": "Life s What You Make It",
+ "artist_id": "277560",
+ "display_artist": "Talk Talk",
+ "spotify_id": null
+ },
+ {
+ "song_id": "15758",
+ "song_name": "Once In A Lifetime",
+ "artist_id": "277561",
+ "display_artist": "Talking Heads",
+ "spotify_id": "2WM63pILSg6VzgCnu0OU6K"
+ },
+ {
+ "song_id": "15769",
+ "song_name": "Lead A Double Life",
+ "artist_id": "308391",
+ "display_artist": "Loverboy",
+ "spotify_id": "1xXN8xxpHFAq8l6fb0vCwA"
+ },
+ {
+ "song_id": "15853",
+ "song_name": "Love Of A Lifetime",
+ "artist_id": "1486557",
+ "display_artist": "Chaka Khan",
+ "spotify_id": "3GhNbHLTEhrZhGOGQKzYpw"
+ },
+ {
+ "song_id": "15893",
+ "song_name": "The Other Side Of Life",
+ "artist_id": "300750",
+ "display_artist": "The Moody Blues",
+ "spotify_id": "2mDgchJUTZVwkDEvFsmIso"
+ },
+ {
+ "song_id": "15913",
+ "song_name": "Wild Wild Life",
+ "artist_id": "277561",
+ "display_artist": "Talking Heads",
+ "spotify_id": "7rFeZg0gEp7qtyuLnjIYQU"
+ },
+ {
+ "song_id": "15999",
+ "song_name": "That s Life",
+ "artist_id": "300468",
+ "display_artist": "David Lee Roth",
+ "spotify_id": null
+ },
+ {
+ "song_id": "16212",
+ "song_name": "Back In The High Life Again",
+ "artist_id": "280672",
+ "display_artist": "Steve Winwood",
+ "spotify_id": "7byGdkcphPA1ovkas0OBFr"
+ },
+ {
+ "song_id": "16346",
+ "song_name": "(I ve Had) The Time Of My Life",
+ "artist_id": "282643",
+ "display_artist": "Bill Medley",
+ "spotify_id": "4BFMQ15vXr626UOoZL8bUI"
+ },
+ {
+ "song_id": "16367",
+ "song_name": "(I've Had) The Time Of My Life",
+ "artist_id": "282693",
+ "display_artist": "Bill Medley & Jennifer Warnes",
+ "spotify_id": "4BFMQ15vXr626UOoZL8bUI"
+ },
+ {
+ "song_id": "16431",
+ "song_name": "Guaranteed For Life",
+ "artist_id": "311311",
+ "display_artist": "Millions Like Us",
+ "spotify_id": null
+ },
+ {
+ "song_id": "16482",
+ "song_name": "Live My Life (From The Film \"Hiding Out\")",
+ "artist_id": "297024",
+ "display_artist": "Boy George",
+ "spotify_id": "4yXv2xk1QUEvldi34AXmLG"
+ },
+ {
+ "song_id": "16518",
+ "song_name": "Rock Of Life",
+ "artist_id": "365034",
+ "display_artist": "Rick Springfield",
+ "spotify_id": "73hyTd7EOZHnxDNjCFUVav"
+ },
+ {
+ "song_id": "16772",
+ "song_name": "Long And Lasting Love (Once In A Lifetime)",
+ "artist_id": "302931",
+ "display_artist": "Glenn Medeiros",
+ "spotify_id": null
+ },
+ {
+ "song_id": "16815",
+ "song_name": "Downtown Life",
+ "artist_id": "300339",
+ "display_artist": "Daryl Hall  John Oates",
+ "spotify_id": "7s6gDjinXpoWQ9VXQdlqmr"
+ },
+ {
+ "song_id": "16976",
+ "song_name": "Good Life",
+ "artist_id": "303824",
+ "display_artist": "Inner City",
+ "spotify_id": "5sJiLlgQKBL81QCTOkoLB5"
+ },
+ {
+ "song_id": "17107",
+ "song_name": "18 And Life",
+ "artist_id": "1493244",
+ "display_artist": "Skid Row",
+ "spotify_id": "13aKGvTil3UUw1yk0pA9fG"
+ },
+ {
+ "song_id": "17186",
+ "song_name": "Back To Life",
+ "artist_id": "279919",
+ "display_artist": "Soul II Soul",
+ "spotify_id": "5cLsk5E7Au4hkTvCQFWHMJ"
+ },
+ {
+ "song_id": "17323",
+ "song_name": "Love Me For Life",
+ "artist_id": "280706",
+ "display_artist": "Stevie B",
+ "spotify_id": "2Nw3ZpNLOhgpiY3XIKTDce"
+ },
+ {
+ "song_id": "17330",
+ "song_name": "All My Life",
+ "artist_id": null,
+ "display_artist": "Linda Ronstadt (Featuring Aaron Neville)",
+ "spotify_id": null
+ },
+ {
+ "song_id": "17403",
+ "song_name": "Get A Life",
+ "artist_id": "279919",
+ "display_artist": "Soul II Soul",
+ "spotify_id": "5HRaxiZNh5CDACzSSYleHx"
+ },
+ {
+ "song_id": "17670",
+ "song_name": "Spend My Life",
+ "artist_id": "1535499",
+ "display_artist": "Slaughter",
+ "spotify_id": "4iTBdIrYcGkNPWpXGwutVZ"
+ },
+ {
+ "song_id": "17797",
+ "song_name": "Life Goes On",
+ "artist_id": "344337",
+ "display_artist": "Poison",
+ "spotify_id": "2xpWp44LowsqtKEilDZzln"
+ },
+ {
+ "song_id": "17849",
+ "song_name": "Love Of A Lifetime",
+ "artist_id": "302162",
+ "display_artist": "Firehouse",
+ "spotify_id": "2kDH08boXJyhKMl5hnZbrE"
+ },
+ {
+ "song_id": "17952",
+ "song_name": "A Day In My Life (Without You)",
+ "artist_id": "307551",
+ "display_artist": "Lisette Melendez",
+ "spotify_id": "69uHPrBVFB3QuNFc3C1MND"
+ },
+ {
+ "song_id": "17959",
+ "song_name": "You re The Story Of My Life",
+ "artist_id": "300812",
+ "display_artist": "Desmond Child",
+ "spotify_id": null
+ },
+ {
+ "song_id": "18185",
+ "song_name": "Love You All My Lifetime",
+ "artist_id": "1486557",
+ "display_artist": "Chaka Khan",
+ "spotify_id": "2yTswsiLkNGzzzX54WroNS"
+ },
+ {
+ "song_id": "18188",
+ "song_name": "The Life Of Riley",
+ "artist_id": "418520",
+ "display_artist": "Lightning Seeds",
+ "spotify_id": "4Ymy0dsSAditx2B9zA8qez"
+ },
+ {
+ "song_id": "18202",
+ "song_name": "Life Is A Highway",
+ "artist_id": "430081",
+ "display_artist": "Tom Cochrane",
+ "spotify_id": "0hKF8N8aflF1uDzEEnPr2j"
+ },
+ {
+ "song_id": "18214",
+ "song_name": "The Best Things In Life Are Free",
+ "artist_id": null,
+ "display_artist": "Luther Vandross And Janet Jackson",
+ "spotify_id": "3E9wmxhFXGLFJJEooJR3Dn"
+ },
+ {
+ "song_id": "18474",
+ "song_name": "Simple Life",
+ "artist_id": "301679",
+ "display_artist": "Elton John",
+ "spotify_id": "1KkPY76tgPzEnL8hdqTiIu"
+ },
+ {
+ "song_id": "18494",
+ "song_name": "Kiss Of Life",
+ "artist_id": "277414",
+ "display_artist": "Sade",
+ "spotify_id": "3Y3MGW5VPS5qIB1c3fTBlz"
+ },
+ {
+ "song_id": "18522",
+ "song_name": "You re The Love Of My Life/The Love I Lost",
+ "artist_id": "281298",
+ "display_artist": "Sybil",
+ "spotify_id": null
+ },
+ {
+ "song_id": "18531",
+ "song_name": "It s My Life",
+ "artist_id": "301263",
+ "display_artist": "Dr. Alban",
+ "spotify_id": "6HdM7gzXVgcpepv276raog"
+ },
+ {
+ "song_id": "18774",
+ "song_name": "Life (Everybody Needs Somebody To Love)",
+ "artist_id": "276332",
+ "display_artist": "Haddaway",
+ "spotify_id": null
+ },
+ {
+ "song_id": "19017",
+ "song_name": "Circle Of Life (From \"The Lion King\")",
+ "artist_id": "301679",
+ "display_artist": "Elton John",
+ "spotify_id": "5vKkaZHPzuqQheytfKuXzp"
+ },
+ {
+ "song_id": "19187",
+ "song_name": "I Live My Life For You",
+ "artist_id": "302162",
+ "display_artist": "Firehouse",
+ "spotify_id": "4vHp893kV7HksfB5FN1Nk5"
+ },
+ {
+ "song_id": "19260",
+ "song_name": "Lifestyles Of The Rich And Shameless",
+ "artist_id": "418543",
+ "display_artist": "Lost Boyz",
+ "spotify_id": "6qatELslus1BTsjWGJqlLL"
+ },
+ {
+ "song_id": "19302",
+ "song_name": "Foe Life",
+ "artist_id": "276912",
+ "display_artist": "Mack 10",
+ "spotify_id": "74Yw8aWE60rlSAeT49h9BS"
+ },
+ {
+ "song_id": "19406",
+ "song_name": "Before You Walk Out Of My Life/Like This And Like That",
+ "artist_id": "311759",
+ "display_artist": "Monica",
+ "spotify_id": null
+ },
+ {
+ "song_id": "19428",
+ "song_name": "Love U 4 Life",
+ "artist_id": "304778",
+ "display_artist": "Jodeci",
+ "spotify_id": "3pXUar0YEshH5Zzm7a5LuB"
+ },
+ {
+ "song_id": "19430",
+ "song_name": "Beautiful Life",
+ "artist_id": "277943",
+ "display_artist": "Ace Of Base",
+ "spotify_id": "1GwdUrz7DujSedNxnzVfqI"
+ },
+ {
+ "song_id": "19451",
+ "song_name": "Fast Life",
+ "artist_id": "306023",
+ "display_artist": "Kool G Rap",
+ "spotify_id": "4TyOdHslAsrWZyXuStT2Ay"
+ },
+ {
+ "song_id": "19991",
+ "song_name": "Semi-Charmed Life",
+ "artist_id": "419523",
+ "display_artist": "Third Eye Blind",
+ "spotify_id": "6luSHkUXVmx3DKGN4TuRqF"
+ },
+ {
+ "song_id": "20069",
+ "song_name": "You Light Up My Life",
+ "artist_id": "306757",
+ "display_artist": "LeAnn Rimes",
+ "spotify_id": "0kOtDZCpa7VhjdTweNWk6x"
+ },
+ {
+ "song_id": "20118",
+ "song_name": "Spice Up Your Life",
+ "artist_id": "280149",
+ "display_artist": "Spice Girls",
+ "spotify_id": "5qGwqO0lkbBXw4xNfzT7SF"
+ },
+ {
+ "song_id": "20170",
+ "song_name": "Love Of My Life",
+ "artist_id": "278030",
+ "display_artist": "Sammy Kershaw",
+ "spotify_id": "0ND0GUYyu5oVR4b9lfeoNk"
+ },
+ {
+ "song_id": "20208",
+ "song_name": "Life In Mono",
+ "artist_id": "311771",
+ "display_artist": "Mono",
+ "spotify_id": "1dKmWxKinP9pnTOe3YoDS2"
+ },
+ {
+ "song_id": "20244",
+ "song_name": "All My Life",
+ "artist_id": "276626",
+ "display_artist": "K-Ci & JoJo",
+ "spotify_id": "2LuubKHueqlJbx0ylKGFmy"
+ },
+ {
+ "song_id": "20267",
+ "song_name": "All My Life",
+ "artist_id": "1496746",
+ "display_artist": "K-Ci",
+ "spotify_id": "2LuubKHueqlJbx0ylKGFmy"
+ },
+ {
+ "song_id": "20353",
+ "song_name": "The Cup Of Life (The Official Song Of The World Cup, France  98)",
+ "artist_id": "365051",
+ "display_artist": "Ricky Martin",
+ "spotify_id": null
+ },
+ {
+ "song_id": "20417",
+ "song_name": "The Cup Of Life (The Official Song Of The World Cup, France '98)",
+ "artist_id": "365051",
+ "display_artist": "Ricky Martin",
+ "spotify_id": null
+ },
+ {
+ "song_id": "20485",
+ "song_name": "Life Ain t Easy",
+ "artist_id": "299425",
+ "display_artist": "Cleopatra",
+ "spotify_id": "4zAyF3tW7pFI5qsxXBxpex"
+ },
+ {
+ "song_id": "20489",
+ "song_name": "Hard Knock Life (Ghetto Anthem)",
+ "artist_id": "304305",
+ "display_artist": "Jay-Z",
+ "spotify_id": "5Tl0HJvynZtKdSUMKbFVVX"
+ },
+ {
+ "song_id": "20505",
+ "song_name": "Life Ain't Easy",
+ "artist_id": "299425",
+ "display_artist": "Cleopatra",
+ "spotify_id": "4zAyF3tW7pFI5qsxXBxpex"
+ },
+ {
+ "song_id": "20630",
+ "song_name": "Ordinary Life",
+ "artist_id": "298890",
+ "display_artist": "Chad Brock",
+ "spotify_id": "7606NOPiCXDaqYk1FIT18w"
+ },
+ {
+ "song_id": "20661",
+ "song_name": "Life",
+ "artist_id": "1496746",
+ "display_artist": "K-Ci",
+ "spotify_id": "2LuubKHueqlJbx0ylKGFmy"
+ },
+ {
+ "song_id": "20745",
+ "song_name": "The Secret Of Life",
+ "artist_id": "276160",
+ "display_artist": "Faith Hill",
+ "spotify_id": "5wYgJcEdKam1nYSybFuOIe"
+ },
+ {
+ "song_id": "20755",
+ "song_name": "Spend My Life With You",
+ "artist_id": "301800",
+ "display_artist": "Eric Benet Featuring Tamia",
+ "spotify_id": "58s4iqgXFzXhBndBkg2AaD"
+ },
+ {
+ "song_id": "20818",
+ "song_name": "Larger Than Life",
+ "artist_id": "275645",
+ "display_artist": "Backstreet Boys",
+ "spotify_id": "1VixwKuFxWlDAXzzFan3Y2"
+ },
+ {
+ "song_id": "21088",
+ "song_name": "Simple Kind Of Life",
+ "artist_id": "312357",
+ "display_artist": "No Doubt",
+ "spotify_id": "6p0jnwYfrpov7CJG5Ucyzp"
+ },
+ {
+ "song_id": "21127",
+ "song_name": "It s My Life",
+ "artist_id": "296092",
+ "display_artist": "Bon Jovi",
+ "spotify_id": "4KaHvV6CcOI9F0WDdToZdv"
+ },
+ {
+ "song_id": "21256",
+ "song_name": "It's My Life",
+ "artist_id": "296092",
+ "display_artist": "Bon Jovi",
+ "spotify_id": "4KaHvV6CcOI9F0WDdToZdv"
+ },
+ {
+ "song_id": "21391",
+ "song_name": "Imitation Of Life",
+ "artist_id": "277275",
+ "display_artist": "R.E.M.",
+ "spotify_id": "6Ge9WWJEIdtDV8XHKdocK8"
+ },
+ {
+ "song_id": "21440",
+ "song_name": "Bad Boy For Life",
+ "artist_id": null,
+ "display_artist": "P. Diddy, Black Rob & Mark Curry",
+ "spotify_id": "2eOuL8KesslTLQERQPu11D"
+ },
+ {
+ "song_id": "21478",
+ "song_name": "Lifetime",
+ "artist_id": "310195",
+ "display_artist": "Maxwell",
+ "spotify_id": "0tXq1ob3ysGZN2oK1abtyp"
+ },
+ {
+ "song_id": "21483",
+ "song_name": "Love Of My Life",
+ "artist_id": "297206",
+ "display_artist": "Brian McKnight",
+ "spotify_id": "3wzTG2nwvZOaJujWGNaOGa"
+ },
+ {
+ "song_id": "21718",
+ "song_name": "Way Of Life",
+ "artist_id": "307264",
+ "display_artist": "Lil Wayne",
+ "spotify_id": "42aTpkS79ySRQbA0ZTNTh0"
+ },
+ {
+ "song_id": "21769",
+ "song_name": "Love Of My Life (An Ode To Hip Hop)",
+ "artist_id": "301014",
+ "display_artist": "Erykah Badu Featuring Common",
+ "spotify_id": "1T401OkvEXiwvv9VJD6BKz"
+ },
+ {
+ "song_id": "21811",
+ "song_name": "Single For The Rest Of My Life",
+ "artist_id": "303935",
+ "display_artist": "Isyss",
+ "spotify_id": "5ntkgBVRkW8BZ1cr0acKLD"
+ },
+ {
+ "song_id": "21816",
+ "song_name": "All My Life",
+ "artist_id": "302285",
+ "display_artist": "Foo Fighters",
+ "spotify_id": "2HbVINmehEbPmjlcueXEJJ"
+ },
+ {
+ "song_id": "21853",
+ "song_name": "Lifestyles Of The Rich And Famous",
+ "artist_id": "303007",
+ "display_artist": "Good Charlotte",
+ "spotify_id": "2g2a5kDeZexbUTD8abcvm6"
+ },
+ {
+ "song_id": "21922",
+ "song_name": "Bring Me To Life",
+ "artist_id": "301942",
+ "display_artist": "Evanescence Featuring Paul McCoy",
+ "spotify_id": "4CDoeHIz44HzXq3j6LkZq6"
+ },
+ {
+ "song_id": "21953",
+ "song_name": "American Life",
+ "artist_id": "308786",
+ "display_artist": "Madonna",
+ "spotify_id": "1YhiWWFrbdd3kAVhSYDhZ7"
+ },
+ {
+ "song_id": "22095",
+ "song_name": "(There's Gotta Be) More To Life",
+ "artist_id": "280269",
+ "display_artist": "Stacie Orrico",
+ "spotify_id": "2x5qF66rFO6DERBMNkQAqn"
+ },
+ {
+ "song_id": "22126",
+ "song_name": "It's My Life",
+ "artist_id": "312357",
+ "display_artist": "No Doubt",
+ "spotify_id": "2fOxxLz9JVe53itq6pfBak"
+ },
+ {
+ "song_id": "22138",
+ "song_name": "There Goes My Life",
+ "artist_id": "305717",
+ "display_artist": "Kenny Chesney",
+ "spotify_id": "5a5Q60zkE4njZWgyR0r7Mm"
+ },
+ {
+ "song_id": "22185",
+ "song_name": "In My Life",
+ "artist_id": "1493176",
+ "display_artist": "Juvenile Featuring Mannie Fresh",
+ "spotify_id": "5WXtKPaUn0rgwtv4sGoCUt"
+ },
+ {
+ "song_id": "22270",
+ "song_name": "Simple Life",
+ "artist_id": "298746",
+ "display_artist": "Carolyn Dawn Johnson",
+ "spotify_id": "7jp5yLTwHNJL9awtdZf2Br"
+ },
+ {
+ "song_id": "22446",
+ "song_name": "Welcome To My Life",
+ "artist_id": "279406",
+ "display_artist": "Simple Plan",
+ "spotify_id": "714Lw0m2SmCEhKSPw0Dn8J"
+ },
+ {
+ "song_id": "22447",
+ "song_name": "Awful, Beautiful Life",
+ "artist_id": "300331",
+ "display_artist": "Darryl Worley",
+ "spotify_id": "5uqbTKo8Ogq1sBQ3u940Xz"
+ },
+ {
+ "song_id": "22733",
+ "song_name": "Better Life",
+ "artist_id": "305660",
+ "display_artist": "Keith Urban",
+ "spotify_id": "2ioOpr2HvAMVhuAmDtAV8h"
+ },
+ {
+ "song_id": "22931",
+ "song_name": "How To Save A Life",
+ "artist_id": "409015",
+ "display_artist": "The Fray",
+ "spotify_id": "2qvIr52Y5G2gggJLTZC0IL"
+ },
+ {
+ "song_id": "22965",
+ "song_name": "Last Day Of My Life",
+ "artist_id": "333572",
+ "display_artist": "Phil Vassar",
+ "spotify_id": "43vHo2Iis2QX3sle9o4S3g"
+ },
+ {
+ "song_id": "22975",
+ "song_name": "Life Ain't Always Beautiful",
+ "artist_id": "302600",
+ "display_artist": "Gary Allan",
+ "spotify_id": "3unLUM6bJcy5beGawHpynM"
+ },
+ {
+ "song_id": "22982",
+ "song_name": "Soundtrack To Your Life",
+ "artist_id": "280080",
+ "display_artist": "Ashley Parker Angel",
+ "spotify_id": "1DaoNvntzGK9CmbuvF5JNw"
+ },
+ {
+ "song_id": "22996",
+ "song_name": "Life Is A Highway",
+ "artist_id": "362685",
+ "display_artist": "Rascal Flatts",
+ "spotify_id": "5YbeJyTQkdSAWe1Ie4sLAl"
+ },
+ {
+ "song_id": "23088",
+ "song_name": "Once In A Lifetime",
+ "artist_id": "305660",
+ "display_artist": "Keith Urban",
+ "spotify_id": "29cd2pFF9ltQ5viRWGlbR7"
+ },
+ {
+ "song_id": "23150",
+ "song_name": "This Is The Life",
+ "artist_id": "276390",
+ "display_artist": "Hannah Montana",
+ "spotify_id": "5qiWQq9tPjMDNpd1knSoZ0"
+ },
+ {
+ "song_id": "23192",
+ "song_name": "Little Bit Of Life",
+ "artist_id": "299725",
+ "display_artist": "Craig Morgan",
+ "spotify_id": "5zWytgeAf6efbCgHGxyOgM"
+ },
+ {
+ "song_id": "23413",
+ "song_name": "Life's What You Make It",
+ "artist_id": "276390",
+ "display_artist": "Hannah Montana",
+ "spotify_id": "1pEc2SNzgGvbmvcapQ566n"
+ },
+ {
+ "song_id": "23482",
+ "song_name": "Good Life",
+ "artist_id": "276709",
+ "display_artist": "Kanye West Featuring T-Pain",
+ "spotify_id": "1fLdeDTrJWNkwOeFyAVLvF"
+ },
+ {
+ "song_id": "23731",
+ "song_name": "The Time Of My Life",
+ "artist_id": "300419",
+ "display_artist": "David Cook",
+ "spotify_id": "6avyV3xlz2UFeiAUZ0SqyT"
+ },
+ {
+ "song_id": "23785",
+ "song_name": "Life In A Northern Town",
+ "artist_id": "280944",
+ "display_artist": "Sugarland Featuring Little Big Town & Jake Owen",
+ "spotify_id": "0TwCdMeFjEltHiNjtii8Jk"
+ },
+ {
+ "song_id": "23823",
+ "song_name": "My Life",
+ "artist_id": "1490221",
+ "display_artist": "The Game Featuring Lil Wayne",
+ "spotify_id": "4GXH9A6fzuE0MNtqtzjhLg"
+ },
+ {
+ "song_id": "23881",
+ "song_name": "Live Your Life",
+ "artist_id": "277486",
+ "display_artist": "T.I. Featuring Rihanna",
+ "spotify_id": "16GHcGtW9Io7AuVdNmTjv3"
+ },
+ {
+ "song_id": "24010",
+ "song_name": "My Life Would Suck Without You",
+ "artist_id": "305681",
+ "display_artist": "Kelly Clarkson",
+ "spotify_id": "6li2D8wQPvgwI2QIrGPhAF"
+ },
+ {
+ "song_id": "24093",
+ "song_name": "Lifeline",
+ "artist_id": "277209",
+ "display_artist": "Papa Roach",
+ "spotify_id": null
+ },
+ {
+ "song_id": "24101",
+ "song_name": "Best Days Of Your Life",
+ "artist_id": "305678",
+ "display_artist": "Kellie Pickler",
+ "spotify_id": "27BMLvWD1TYdosiReVgbAt"
+ },
+ {
+ "song_id": "24221",
+ "song_name": "Sounds Like Life To Me",
+ "artist_id": "300331",
+ "display_artist": "Darryl Worley",
+ "spotify_id": "0FKH1z3VxRf3b361XwlNw0"
+ },
+ {
+ "song_id": "24314",
+ "song_name": "It's My Life / Confessions Part II",
+ "artist_id": null,
+ "display_artist": "Glee Cast",
+ "spotify_id": "4EW8simi1XfAph3nfsaPzz"
+ },
+ {
+ "song_id": "24317",
+ "song_name": "Hell Of A Life",
+ "artist_id": "277486",
+ "display_artist": "T.I.",
+ "spotify_id": "61RKa8fRwmlyGgpEVoXsyT"
+ },
+ {
+ "song_id": "24365",
+ "song_name": "Good Life",
+ "artist_id": "314580",
+ "display_artist": "OneRepublic",
+ "spotify_id": "7oOfd5BP16mS0Vrh1PdRHt"
+ },
+ {
+ "song_id": "24393",
+ "song_name": "It's Your Life",
+ "artist_id": "302340",
+ "display_artist": "Francesca Battistelli",
+ "spotify_id": "1TZPKftwYGoShkfmrPBOg0"
+ },
+ {
+ "song_id": "24399",
+ "song_name": "Life After You",
+ "artist_id": "300354",
+ "display_artist": "Daughtry",
+ "spotify_id": "4gWTBq5Jftq5CEKYpLXD8R"
+ },
+ {
+ "song_id": "24410",
+ "song_name": "My Life Would Suck Without You",
+ "artist_id": null,
+ "display_artist": "Glee Cast Featuring Lea Michele, Cory Monteith, Jenna Ushkowitz & Amber Riley",
+ "spotify_id": null
+ },
+ {
+ "song_id": "24664",
+ "song_name": "25 To Life",
+ "artist_id": "301722",
+ "display_artist": "Eminem",
+ "spotify_id": "0dyWQoMOU9oERL6c9vxtRp"
+ },
+ {
+ "song_id": "24691",
+ "song_name": "Champagne Life",
+ "artist_id": "312075",
+ "display_artist": "Ne-Yo",
+ "spotify_id": "7p8l7HiPoz90dg423iURKW"
+ },
+ {
+ "song_id": "24870",
+ "song_name": "Crazy Beautiful Life",
+ "artist_id": "305612",
+ "display_artist": "Ke$ha",
+ "spotify_id": "5wRvwm7f9HWwa2NQWv2tMV"
+ },
+ {
+ "song_id": "24876",
+ "song_name": "(I've Had) The Time Of My Life",
+ "artist_id": null,
+ "display_artist": "Glee Cast",
+ "spotify_id": "1wYDz3NuqlGxPnQDX8OuV6"
+ },
+ {
+ "song_id": "24893",
+ "song_name": "Moment 4 Life",
+ "artist_id": "312259",
+ "display_artist": "Nicki Minaj Featuring Drake",
+ "spotify_id": "0ConttVd0Ebk3dLNquOmh0"
+ },
+ {
+ "song_id": "25219",
+ "song_name": "Night Of Your Life",
+ "artist_id": "300445",
+ "display_artist": "David Guetta Featuring Jennifer Hudson",
+ "spotify_id": "3zP8rBChGU6S4IZtcLNQzn"
+ },
+ {
+ "song_id": "25246",
+ "song_name": "All Your Life",
+ "artist_id": "382918",
+ "display_artist": "The Band Perry",
+ "spotify_id": "2khs94jHAVzUm3Pu4mAMmv"
+ },
+ {
+ "song_id": "25452",
+ "song_name": "Live My Life",
+ "artist_id": null,
+ "display_artist": "Far*East Movement Featuring Justin Bieber",
+ "spotify_id": null
+ },
+ {
+ "song_id": "25494",
+ "song_name": "Love This Life",
+ "artist_id": "277486",
+ "display_artist": "T.I.",
+ "spotify_id": "3tuoGlPsvRp1GyrcXkop63"
+ },
+ {
+ "song_id": "25703",
+ "song_name": "Rest Of My Life",
+ "artist_id": "308504",
+ "display_artist": "Ludacris Featuring Usher & David Guetta",
+ "spotify_id": "6SLUwdeias7fn6qVq6LcgP"
+ },
+ {
+ "song_id": "25720",
+ "song_name": "My Life",
+ "artist_id": "431969",
+ "display_artist": "50 Cent Featuring Eminem & Adam Levine",
+ "spotify_id": "2GoOioZVtOF1iMYfnzkreg"
+ },
+ {
+ "song_id": "26083",
+ "song_name": "Story Of My Life",
+ "artist_id": "314021",
+ "display_artist": "One Direction",
+ "spotify_id": "5Wd2bfQ7wc6GgSa32OmQU3"
+ },
+ {
+ "song_id": "26098",
+ "song_name": "Best Day Of My Life",
+ "artist_id": "5734812",
+ "display_artist": "American Authors",
+ "spotify_id": "5k31cAfP8yymw8v0AYQIjr"
+ },
+ {
+ "song_id": "26121",
+ "song_name": "Helluva Life",
+ "artist_id": "302394",
+ "display_artist": "Frankie Ballard",
+ "spotify_id": "4UZ3y1J3Yg6BiMZqrsdMtf"
+ },
+ {
+ "song_id": "26322",
+ "song_name": "Life Of The Party",
+ "artist_id": "6143288",
+ "display_artist": "Shawn Mendes",
+ "spotify_id": "6L6ra9mTlyQPmh7zGw58y1"
+ },
+ {
+ "song_id": "26347",
+ "song_name": "Lifestyle",
+ "artist_id": "1563209",
+ "display_artist": "Rich Gang Featuring Young Thug & Rich Homie Quan",
+ "spotify_id": "5hmQ76WSXsot6JQV3NdaCV"
+ },
+ {
+ "song_id": "26362",
+ "song_name": "Wild Life",
+ "artist_id": "6229494",
+ "display_artist": "Jack & Jack",
+ "spotify_id": "5Nh8XViPuGZpPfAdcmcr5t"
+ },
+ {
+ "song_id": "26451",
+ "song_name": "I Bet My Life",
+ "artist_id": "303738",
+ "display_artist": "Imagine Dragons",
+ "spotify_id": "2Ex5M7OjJhkH38JvCUzwXR"
+ },
+ {
+ "song_id": "26682",
+ "song_name": "Beautiful Life",
+ "artist_id": "6569056",
+ "display_artist": "Nick Fradiani",
+ "spotify_id": "2nAYg5RDXgqtEl5sascdmM"
+ },
+ {
+ "song_id": "26724",
+ "song_name": "Real Life",
+ "artist_id": "304059",
+ "display_artist": "Jake Owen",
+ "spotify_id": "5NUvj4WX2tAQGxOF4CWJ7I"
+ },
+ {
+ "song_id": "26790",
+ "song_name": "Real Life",
+ "artist_id": "419413",
+ "display_artist": "The Weeknd",
+ "spotify_id": "1VoJttdilLYpbpYN142Zek"
+ },
+ {
+ "song_id": "26856",
+ "song_name": "I Love This Life",
+ "artist_id": "6605928",
+ "display_artist": "LoCash",
+ "spotify_id": "1kneRrMfS08JwuqKwnX4fl"
+ },
+ {
+ "song_id": "26865",
+ "song_name": "Adventure Of A Lifetime",
+ "artist_id": "299516",
+ "display_artist": "Coldplay",
+ "spotify_id": "4MFCXniy7I8tj0GXtf3wgC"
+ },
+ {
+ "song_id": "26881",
+ "song_name": "Life Is Worth Living",
+ "artist_id": "305459",
+ "display_artist": "Justin Bieber",
+ "spotify_id": "150xRZE9rtvEPdedbf3y3l"
+ },
+ {
+ "song_id": "26968",
+ "song_name": "Low Life",
+ "artist_id": "302577",
+ "display_artist": "Future Featuring The Weeknd",
+ "spotify_id": "71SDPonZOsIKNtqnaX8LXj"
+ },
+ {
+ "song_id": "27159",
+ "song_name": "Lush Life",
+ "artist_id": "6532737",
+ "display_artist": "Zara Larsson",
+ "spotify_id": "0VzzzYWjBWofMsSB77pDo4"
+ }
+ ]
